@@ -1,11 +1,13 @@
 # Mathematics, Machine Learning, Deep Learning, Reinforcement Learning and Coding Resources
 
-## Linear Algebra
+## Mathematics
 - **Essence of linear algebra**, [[YouTube]](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 - **Linear Algebra by Terence Tao (UCLA)**, [[homepage]](http://www.math.ucla.edu/~tao/resource/general/115a.3.02f/).
 - **Linear Algebra Done Right (线性代数应该这样学)**, [[book]](http://148.206.53.84/tesiuami/S_pdfs/Linear%20Algebra%20Done%20Right.pdf), [[Chinese version book]](/Documents/线性代数应该这样学.pdf).
 - **Introduction to Linear Algebra (线性代数及其应用)**, [[homepage]](http://math.mit.edu/~gs/linearalgebra/), [[book]](https://github.com/butterluo/btGitDoc/blob/master/algorithm/math/LinearAlgebra/Introduction%20to%20Linear%20Algebra%2C%204th%20edition--Gilbert%20Strang.pdf).
-- **Linear Algebra and Its Applications**, [[book]](http://www.math.hcmus.edu.vn/~bxthang/Linear%20algebra%20and%20its%20applications.pdf), [[Chinese version book]](https://github.com/stonycat/some-books-and-note/blob/master/Math/《线性代数及其应用》(美%20第三版)（中文版）.pdf).
+- **Linear Algebra and Its Applications**, [[book]](http://www.math.hcmus.edu.vn/~bxthang/Linear%20algebra%20and%20its%20applications.pdf), [[Chinese version book]](/Documents/线性代数及其应用.pdf).
+- **Convex Optimization**, [[book]](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf), [[Chinese version book]](https://github.com/stonycat/some-books-and-note/blob/master/Math/凸优化理论%20清华大学出版社%20王书宁许窒黄晓霖译%20Stephen%20Boyd%20Lieven%20Vandenbergt原著%202013%20年l%20月第1%20版.pdf), [[homepage]](https://web.stanford.edu/~boyd/cvxbook/).
+- **Probabilistic Graphical Models: Principles and Techniques**, [[book]](/Documents/Probabilistic%20Graphical%20Models%20-%20Principles%20and%20Techniques.pdf), [[homepage]](https://cs.stanford.edu/~ermon/cs228/index.html).
 
 ## Machine Learning
 - **CS229: Machine Learning**, _Stanford University_, [[url]](http://cs229.stanford.edu).
