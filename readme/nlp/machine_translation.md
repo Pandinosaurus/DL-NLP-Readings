@@ -15,6 +15,8 @@
 - [2018 NAACL] **Self-Attention with Relative Position Representations**, [[paper]](https://arxiv.org/pdf/1803.02155.pdf).
 - [2018 COLING] **Double Path Networks for Sequence to Sequence Learning**, [[paper]](https://arxiv.org/pdf/1806.04856.pdf).
 - [2019 NAACL] **Extract and Edit: An Alternative to Back-Translation for Unsupervised Neural Machine Translation**, [[paper]](https://www.aclweb.org/anthology/N19-1120), [[bibtex]](/Bibtex/Extract%20and%20Edit%20-%20An%20Alternative%20to%20Back-Translation%20for%20Unsupervised%20Neural%20Machine%20Translation.bib), sources: [[jiaweiw/Extract-Edit-Unsupervised-NMT]](https://github.com/jiaweiw/Extract-Edit-Unsupervised-NMT).
+- [2019 NAACL] **Overcoming Catastrophic Forgetting During Domain Adaptation of Neural Machine Translation**, [[paper]](https://www.aclweb.org/anthology/N19-1209), [[bibtex]](/Bibtex/Overcoming%20Catastrophic%20Forgetting%20During%20Domain%20Adaptation%20of%20Neural%20Machine%20Translation.bib).
+- [2019 ACL] **From Bilingual to Multilingual Neural Machine Translation by Incremental Training**, [[paper]](https://www.aclweb.org/anthology/P19-2033), [[bibtex]](/Bibtex/From%20Bilingual%20to%20Multilingual%20Neural%20Machine%20Translation%20by%20Incremental%20Training.bib). 
 
 ## Language Style Transfer
 - [2018 ArXiv] **Style Transfer as Unsupervised Machine Translation**, [[paper]](https://arxiv.org/pdf/1808.07894.pdf), [[bibtex]](/Bibtex/Style%20Transfer%20as%20Unsupervised%20Machine%20Translation.bib), [[homepage]](https://zrustc.github.io).

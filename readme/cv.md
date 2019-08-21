@@ -29,6 +29,7 @@
 ## Image Processing
 - [2018 IJCAI] **DehazeGAN: When Image Dehazing Meets Differential Programming**, [[paper]](http://www.ijcai.org/proceedings/2018/0172.pdf).
 - [2018 AAAI] **Towards Perceptual Image Dehazing by Physics-based Disentanglement and Adversarial Training**, [[paper]](https://pdfs.semanticscholar.org/7a73/6b46b37a67a440a29593e261f7c0b63f0ad5.pdf).
+- [2019 ArXiv] **EnlightenGAN: Deep Light Enhancement without Paired Supervision**, [[paper]](https://arxiv.org/pdf/1906.06972.pdf), [[bibtex]](/Bibtex/EnlightenGAN%20-%20Deep%20Light%20Enhancement%20without%20Paired%20Supervision.bib), sources: [[TAMU-VITA/EnlightenGAN]](https://github.com/TAMU-VITA/EnlightenGAN).
 
 ## Image Classification/Recognition and Object Detection
 - [2012 NIPS] **ImageNet Classification with Deep Convolutional Neural Networks**, _AlexNet_, [[paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
@@ -43,6 +44,7 @@
 - [2017 CVPR] **Densely Connected Convolutional Networks**, [[paper]](https://arxiv.org/abs/1608.06993.pdf), sources: [[liuzhuang13/DenseNet]](https://github.com/liuzhuang13/DenseNet).
 - [2018 CVPR] **Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs**, [[paper]](https://arxiv.org/pdf/1803.08035.pdf), [[blog]](https://www.cnblogs.com/wangxiaocvpr/p/8682608.html), sources: [[JudyYe/zero-shot-gcn]](https://github.com/JudyYe/zero-shot-gcn).
 - [2018 ECCV] **DOCK: Detecting Objects by Transferring Common-sense Knowledge**, [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Krishna_Kumar_Singh_Transferring_Common-Sense_Knowledge_ECCV_2018_paper.pdf), [[bibtex]](/Bibtex/DOCK%20-%20Detecting%20Objects%20by%20transferring%20Common-sense%20Knowledge.bib), sources: [[kkanshul/dock]](https://github.com/kkanshul/dock).
+- [2019 ICML] **EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**, [[paper]](http://proceedings.mlr.press/v97/tan19a/tan19a.pdf), [[bibtex]](/Bibtex/EfficientNet%20-%20Rethinking%20Model%20Scaling%20for%20Convolutional%20Neural%20Networks.bib), sources: [[tensorflow/tpu/models/official/efficientnet/]](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet), [[zsef123/EfficientNets-PyTorch]](https://github.com/zsef123/EfficientNets-PyTorch), [[narumiruna/efficientnet-pytorch]](https://github.com/narumiruna/efficientnet-pytorch), [[titu1994/keras-efficientnets]](https://github.com/titu1994/keras-efficientnets).
 
 ## Instance/Semantic Description/Segmentation
 - [2015 IPMI] **Predicting Semantic Descriptions from Medical Images with Convolutional Neural Networks**, [[paper]](/Documents/Papers/Predicting%20Semantic%20Descriptions%20from%20Medical%20Images%20with%20Convolutional%20Neural%20Networks.pdf), [[bibtex]](/Bibtex/Predicting%20Semantic%20Descriptions%20from%20Medical%20Images%20with%20Convolutional%20Neural%20Networks.bib).

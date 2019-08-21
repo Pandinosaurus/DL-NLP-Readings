@@ -1,6 +1,6 @@
 # Label Noise and Anomaly Detection
 
-## Learning on Noisy/Corrupted Labels
+## Learning on Noisy/Corrupted/Imbalanced Labels
 - [2017 ICCV] **Learning from Noisy Labels with Distillation**, [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Learning_From_Noisy_ICCV_2017_paper.pdf), [[bibtex]](/Bibtex/Learning%20from%20Noisy%20Labels%20with%20Distillation.bib), sources: [[raingo/yfcc100m-entity]](https://github.com/raingo/yfcc100m-entity).
 - [2017 ICML] **A Closer Look at Memorization in Deep Networks**, [[paper]](http://proceedings.mlr.press/v70/arpit17a/arpit17a.pdf), [[bibtex]](/Bibtex/A%20Closer%20Look%20at%20Memorization%20in%20Deep%20Networks.bib).
 - [2017 ICLR] **Training Deep Neural-networks Using a Noise Adaptation Layer**, [[paper]](https://openreview.net/pdf?id=H12GRgcxg), [[bibtex]](/Bibtex/Training%20Deep%20Neural-networks%20Using%20a%20Noise%20Adaptation%20Layer.bib), sources: [[udibr/noisy_labels]](https://github.com/udibr/noisy_labels).
@@ -11,6 +11,7 @@
 - [2018 NeurIPS] **Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise**, [[paper]](https://arxiv.org/pdf/1802.05300.pdf), [[bibtex]](/Bibtex/Using%20Trusted%20Data%20to%20Train%20Deep%20Networks%20on%20Labels%20Corrupted%20by%20Severe%20Noise.bib), sources: [[mmazeika/glc]](https://github.com/mmazeika/glc).
 - [2018 JMLR] **A Theory of Learning with Corrupted Labels**, [[paper]](http://www.jmlr.org/papers/volume18/16-315/16-315.pdf), [[bibtex]](/Bibtex/A%20Theory%20of%20Learning%20with%20Corrupted%20Labels.bib).
 - [2019 TIP] **Deep Learning From Noisy Image Labels With Quality Embedding**, [[paper]](/Documents/Papers/Deep%20Learning%20From%20Noisy%20Image%20Labels%20With%20Quality%20Embedding.pdf), [[bibtex]](/Bibtex/Deep%20Learning%20From%20Noisy%20Image%20Labels%20With%20Quality%20Embedding.bib).
+- [2019 ArXiv] **Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting**, [[paper]](https://arxiv.org/pdf/1902.07379.pdf), [[bibtex]](/Bibtex/Meta-Weight-Net%20-%20Learning%20an%20Explicit%20Mapping%20For%20Sample%20Weighting.bib).
 
 ## Anomaly Detection
 - [2017 IPMI] **Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery**, [[paper]](https://arxiv.org/pdf/1703.05921.pdf), [[bibtex]](/Bibtex/Unsupervised%20Anomaly%20Detection%20with%20Generative%20Adversarial%20Networks%20to%20Guide%20Marker%20Discovery.bib), sources: [[LeeDoYup/AnoGAN]](https://github.com/LeeDoYup/AnoGAN), [[tkwoo/anogan-keras]](https://github.com/tkwoo/anogan-keras), [[yjucho1/anoGAN]](https://github.com/yjucho1/anoGAN).
