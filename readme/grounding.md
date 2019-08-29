@@ -14,6 +14,7 @@
 ### Visual Question Answering
 - [2016 NIPS] **Hierarchical Question-Image Co-Attention for Visual Question Answering**, [[paper]](https://arxiv.org/pdf/1606.00061), [[bibtex]](/Bibtex/Hierarchical%20Question-Image%20Co-Attention%20for%20Visual%20Question%20Answering.bib), sources: [[karunraju/VQA]](https://github.com/karunraju/VQA), [[jiasenlu/HieCoAttenVQA]](https://github.com/jiasenlu/HieCoAttenVQA).
 - [2018 CVPR] **Visual Grounding via Accumulated Attention**, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Visual_Grounding_via_CVPR_2018_paper.pdf), [[bibtex]](/Bibtex/Visual%20Grounding%20via%20Accumulated%20Attention.bib).
+- [2019 ACL] **Multi-grained Attention with Object-level Grounding for Visual Question Answering**, [[paper]](https://www.aclweb.org/anthology/P19-1349), [[bibtex]](/Bibtex/Multi-grained%20Attention%20with%20Object-level%20Grounding%20for%20Visual%20Question%20Answering.bib).
 
 
 ## Video based Visual Grounding
@@ -51,9 +52,10 @@
 - [2019 TPAMI] **Focal Visual-Text Attention for Memex Question Answering**, [[paper]](http://llcao.net/paper/MemexQA_TPAMI.pdf), [[bibtex]](/Bibtex/Focal%20Visual-Text%20Attention%20for%20Memex%20Question%20Answering.bib), [[homepage]](https://memexqa.cs.cmu.edu), sources: [[JunweiLiang/FVTA_memoryqa]](https://github.com/JunweiLiang/FVTA_memoryqa).
 - [2019 CVPR] **Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering**, [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Heterogeneous_Memory_Enhanced_Multimodal_Attention_Model_for_Video_Question_Answering_CVPR_2019_paper.pdf), [[bibtex]](/Bibtex/Heterogeneous%20Memory%20Enhanced%20Multimodal%20Attention%20Model%20for%20Video%20Question%20Answering.bib), [[poster]](http://homes.sice.indiana.edu/fan6/docs/cvpr19_videoqa.pdf), sources: [[fanchenyou/HME-VideoQA]](https://github.com/fanchenyou/HME-VideoQA).
 
-### Video grounded dialogue
+### Video Grounded Dialogue
 
 
 
 ## Others
 - [2018 CVPR] **Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments**, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf), [[bibtex]](/Bibtex/Vision-and-Language%20Navigation.bib), sources: [[peteanderson80/Matterport3DSimulator]](https://github.com/peteanderson80/Matterport3DSimulator).
+- [2019 ACL] **Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation**, [[paper]](https://www.aclweb.org/anthology/P19-1655), [[bibtex]](/Bibtex/Are%20You%20Looking%20Grounding%20to%20Multiple%20Modalities%20in%20Vision-and-Language%20Navigation.bib), [[supplementary]](https://www.aclweb.org/anthology/attachments/P19-1655.Supplementary.pdf).
