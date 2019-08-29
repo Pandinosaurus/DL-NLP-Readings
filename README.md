@@ -20,7 +20,7 @@
     14. [Other NLP Research Works](/readme/nlp/others.md)
 2. [Computer Vision (Classification, Detection, Recognition, Captioning and etc.)](/readme/cv.md)
 3. [Graph and Social Network Representation](/readme/graphs.md)
-4. [Grounding](/readme/grounding.md)
+4. [Visual Grounding](/readme/grounding.md)
 5. [Offense and Defense](/readme/offense_defense.md)
 6. [Zero/Few-shot Learning and Meta Learning](/readme/few_shot_meta.md)
 7. [Knowledge Distillation and Data Imputation](/readme/distill_imputation.md)
