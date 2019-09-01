@@ -1,6 +1,6 @@
 # Visual Grounding
 
-## Image based Visual Grounding
+## Image-based Visual Grounding
 ### Image Captioning
 - [2015 ICML] **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**, [[paper]](https://arxiv.org/pdf/1502.03044.pdf), [[slides]](http://www.cs.toronto.edu/~fidler/slides/2017/CSC2539/Katherine_slides.pdf), [[bibtex]](/Bibtex/Neural%20Image%20Caption%20Generation%20with%20Visual%20Attention.bib),  [[homepage]](http://kelvinxu.github.io/projects/capgen.html), sources: [[kelvinxu/arctic-captions]](https://github.com/kelvinxu/arctic-captions), [[yunjey/show-attend-and-tell]](https://github.com/yunjey/show-attend-and-tell), [[DeepRNN/image_captioning]](https://github.com/DeepRNN/image_captioning), [[coldmanck/show-attend-and-tell]](https://github.com/coldmanck/show-attend-and-tell).
 - [2017 PAMI] **Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge**, [[paper]](https://arxiv.org/abs/1609.06647.pdf), sources: [[tensorflow/models/im2txt]](https://github.com/tensorflow/models/tree/master/research/im2txt).
@@ -17,7 +17,7 @@
 - [2019 ACL] **Multi-grained Attention with Object-level Grounding for Visual Question Answering**, [[paper]](https://www.aclweb.org/anthology/P19-1349), [[bibtex]](/Bibtex/Multi-grained%20Attention%20with%20Object-level%20Grounding%20for%20Visual%20Question%20Answering.bib).
 
 
-## Video based Visual Grounding
+## Video-based Visual Grounding
 ### Video Captioning
 - [2015 ICCV] **Sequence to Sequence – Video to Text**, [[paper]](http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf), [[bibtex]](/Bibtex/Sequence%20to%20Sequence%20–%20Video%20to%20Text.bib), [[homepage]](https://vsubhashini.github.io/s2vt.html), sources: [[vsubhashini/caffe/examples/s2vt]](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt).
 - [2017 ICCV] **Dense-Captioning Events in Videos**, [[paper]](https://arxiv.org/pdf/1705.00754.pdf), [[bibtex]](/Bibtex/Dense-Captioning%20Events%20in%20Videos.bib), [[homepage]](https://cs.stanford.edu/people/ranjaykrishna/densevid/), source: [[ranjaykrishna/densevid_eval]](https://github.com/ranjaykrishna/densevid_eval).
@@ -26,6 +26,8 @@
 - [2019 WACV] **Joint Event Detection and Description in Continuous Video Streams**, [[paper]](http://www.boyangli.co/paper/huijuanxu-wacv-2019.pdf), [[bibtex]](/Bibtex/Joint%20Event%20Detection%20and%20Description%20in%20Continuous%20Video%20Streams.bib), sources: [[VisionLearningGroup/JEDDi-Net]](https://github.com/VisionLearningGroup/JEDDi-Net).
 - [2019 CVPR] **Grounded Video Description**, [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Grounded_Video_Description_CVPR_2019_paper.pdf), [[bibtex]](/Bibtex/Grounded%20Video%20Description.bib), sources: [[facebookresearch/ActivityNet-Entities]](https://github.com/facebookresearch/ActivityNet-Entities), [[facebookresearch/grounded-video-description]](https://github.com/facebookresearch/grounded-video-description).
 - [2019 ArXiv] **Video Description: A Survey of Methods Datasets and Evaluation Metrics**, [[paper]](https://arxiv.org/pdf/1806.00186.pdf), [[bibtex]](/Bibtex/Video%20Description%20-%20A%20Survey%20of%20Methods%20Datasets%20and%20Evaluation%20Metrics.bib).
+- [2019 ACL] **Dense Procedure Captioning in Narrated Instructional Videos**, [[paper]](https://www.aclweb.org/anthology/P19-1641), [[bibtex]](/Bibtex/Dense%20Procedure%20Captioning%20in%20Narrated%20Instructional%20Videos.bib).
+- [2019 ACL] **Multimodal Abstractive Summarization for How2 Videos**, [[paper]](https://www.aclweb.org/anthology/P19-1659), [[bibtex]](/Bibtex/Multimodal%20Abstractive%20Summarization%20for%20How2%20Videos.bib).
 
 ### Video Clip Localization
 - [2017 ICCV] **Localizing Moments in Video with Natural Language**, [[paper]](https://people.eecs.berkeley.edu/~lisa_anne/didemo/paper_arxiv.pdf), [[bibtex]](/Bibtex/Localizing%20Moments%20in%20Video%20with%20Natural%20Language.bib), sources: [[LisaAnne/LocalizingMoments]](https://github.com/LisaAnne/LocalizingMoments).
@@ -45,15 +47,19 @@
 - [2019 AAAI] **Read, Watch, and Move: Reinforcement Learning for Temporally Grounding Natural Language Descriptions in Videos**, [[paper]](https://arxiv.org/pdf/1901.06829.pdf), [[bibtex]](/Bibtex/Read%20Watch%20and%20Move%20-%20Reinforcement%20Learning%20for%20Temporally%20Grounding%20Natural%20Language%20Descriptions%20in%20Videos.bib).
 - [2019 AAAI] **Semantic Proposal for Activity Localization in Videos via Sentence Query**, [[paper]](/Documents/Papers/Semantic%20Proposal%20for%20Activity%20Localization%20in%20Videos%20via%20Sentence%20Query.pdf), [[bibtex]](/Bibtex/Semantic%20Proposal%20for%20Activity%20Localization%20in%20Videos%20via%20Sentence%20Query.bib).
 - [2019 ArXiv] **Tripping through time: Efficient Localization of Activities in Videos**, [[paper]](https://arxiv.org/pdf/1904.09936.pdf), [[bibtex]](/Bibtex/Tripping%20through%20time%20-%20Efficient%20Localization%20of%20Activities%20in%20Videos.bib).
+- [2019 ACL] **Weakly-Supervised Spatio-Temporally Grounding Natural Sentence in Video**, [[paper]](https://www.aclweb.org/anthology/P19-1183), [[bibtex]](/Bibtex/Weakly-Supervised%20Spatio-Temporally%20Grounding%20Natural%20Sentence%20in%20Video.bib), [[supplementary]](https://www.aclweb.org/anthology/attachments/P19-1183.Supplementary.pdf), sources: [[JeffCHEN2017/WSSTG]](https://github.com/JeffCHEN2017/WSSTG).
 
 ### Visual Question Answering
 - [2018 CVPR] **Motion-Appearance Co-Memory Networks for Video Question Answering**, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gao_Motion-Appearance_Co-Memory_Networks_CVPR_2018_paper.pdf), [[bibtex]](/Bibtex/Motion-Appearance%20Co-Memory%20Networks%20for%20Video%20Question%20Answering.bib).
 - [2018 CVPR] **Focal Visual-Text Attention for Visual Question Answering**, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liang_Focal_Visual-Text_Attention_CVPR_2018_paper.pdf), [[bibtex]](/Bibtex/Focal%20Visual-Text%20Attention%20for%20Visual%20Question%20Answering.bib), sources: [[JunweiLiang/FVTA_memoryqa]](https://github.com/JunweiLiang/FVTA_memoryqa).
+- [2018 EMNLP] **TVQA: Localized Compositional Video Question Answering**, [[paper]](https://www.aclweb.org/anthology/D18-1167), [[bibtex]](/Bibtex/TVQA%20-%20Localized%20Compositional%20Video%20Question%20Answering.bib), [[homepage]](http://tvqa.cs.unc.edu), sources: [[jayleicn/TVQA]](https://github.com/jayleicn/TVQA).
 - [2019 TPAMI] **Focal Visual-Text Attention for Memex Question Answering**, [[paper]](http://llcao.net/paper/MemexQA_TPAMI.pdf), [[bibtex]](/Bibtex/Focal%20Visual-Text%20Attention%20for%20Memex%20Question%20Answering.bib), [[homepage]](https://memexqa.cs.cmu.edu), sources: [[JunweiLiang/FVTA_memoryqa]](https://github.com/JunweiLiang/FVTA_memoryqa).
 - [2019 CVPR] **Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering**, [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Heterogeneous_Memory_Enhanced_Multimodal_Attention_Model_for_Video_Question_Answering_CVPR_2019_paper.pdf), [[bibtex]](/Bibtex/Heterogeneous%20Memory%20Enhanced%20Multimodal%20Attention%20Model%20for%20Video%20Question%20Answering.bib), [[poster]](http://homes.sice.indiana.edu/fan6/docs/cvpr19_videoqa.pdf), sources: [[fanchenyou/HME-VideoQA]](https://github.com/fanchenyou/HME-VideoQA).
+- [2019 AAAI] **ActivityNet-QA: A Dataset for Understanding Complex Web Videos via Question Answering**, [[paper]](https://arxiv.org/pdf/1906.02467.pdf), [[bibtex]](/Bibtex/ActivityNet-QA%20-%20A%20Dataset%20for%20Understanding%20Complex%20Web%20Videos%20via%20Question%20Answering.bib), sources: [[MILVLG/activitynet-qa]](https://github.com/MILVLG/activitynet-qa).
+- [2019 ArXiv] **TVQA+: Spatio-Temporal Grounding for Video Question Answering**, [[paper]](https://arxiv.org/pdf/1904.11574.pdf), [[bibtex]](/Bibtex/TVQA+%20-%20Spatio-Temporal%20Grounding%20for%20Video%20Question%20Answering.bib), [[homepage]](http://tvqa.cs.unc.edu).
 
 ### Video Grounded Dialogue
-
+- [2019 ACL] **Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems**, [[paper]](https://www.aclweb.org/anthology/P19-1564), [[bibtex]](/Bibtex/Multimodal%20Transformer%20Networks%20for%20End-to-End%20Video-Grounded%20Dialogue%20Systems.bib), sources: [[henryhungle/MTN]](https://github.com/henryhungle/MTN).
 
 
 ## Others
