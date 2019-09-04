@@ -36,6 +36,7 @@
 - [2018 ACL] **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**, [[paper]](https://arxiv.org/pdf/1711.09645.pdf), [[data]](https://github.com/EdinburghNLP/spot-data).
 - [2018 AAAI] **Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM**, [[paper]](http://sentic.net/sentic-lstm.pdf).
 - [2018 Cognitive Computation] **Sentic LSTM: a Hybrid Network for Targeted Aspect-Based Sentiment Analysis**, [[paper]](https://link.springer.com/article/10.1007/s12559-018-9549-x), sources: [[SenticNet/sentic-lstm]](https://github.com/SenticNet/sentic-lstm).
+- [2019 ACL] **Multi-Source Cross-Lingual Model Transfer: Learning What to Share**, [[paper]](https://www.aclweb.org/anthology/P19-1299), [[bibtex]](/Bibtex/Multi-Source%20Cross-Lingual%20Model%20Transfer%20-%20Learning%20What%20to%20Share.bib), sources: [[microsoft/Multilingual-Model-Transfer]](https://github.com/microsoft/Multilingual-Model-Transfer).
 
 ## Stance Detection
 - [2016 ACM] **Stance and Sentiment in Tweets**, [[paper]](https://arxiv.org/pdf/1605.01655.pdf).
@@ -43,4 +44,3 @@
 - [2016 SemEval] **DeepStance at SemEval-2016 Task 6: Detecting Stance in Tweets Using Character and Word-Level CNNs**, [[paper]](https://arxiv.org/pdf/1606.05694.pdf).
 - [2016 SEM@ACL] **Detecting Stance in Tweets And Analyzing its Interaction with Sentiment**, [[paper]](http://anthology.aclweb.org/S16-2021), sources: [[vishaalmohan/twitter-stance-detection]](https://github.com/vishaalmohan/twitter-stance-detection).
 - [2018 ECIR] **Topical Stance Detection for Twitter: A Two-Phase LSTM Model Using Attention**, [[paper]](https://arxiv.org/pdf/1801.03032.pdf).
-- [2019 ACL] **Multi-Source Cross-Lingual Model Transfer: Learning What to Share**, [[paper]](https://www.aclweb.org/anthology/P19-1299), [[bibtex]](/Bibtex/Multi-Source%20Cross-Lingual%20Model%20Transfer%20-%20Learning%20What%20to%20Share.bib), sources: [[microsoft/Multilingual-Model-Transfer]](https://github.com/microsoft/Multilingual-Model-Transfer).
