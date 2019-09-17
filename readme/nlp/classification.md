@@ -1,6 +1,6 @@
 # Sentiment/Text Classification
 
-> Including **Sentiment Analysis**, **Stance Detection** and **Text Classification** and etc.
+> Including **Sentiment Analysis**, **Opinion Target Extraction**, **Stance Detection** and **Text Classification** and etc.
 
 ## Text, Sentence and Document Classification
 - [2014 EMNLP] **Convolutional Neural Networks for Sentence Classification**, [[paper]](https://arxiv.org/pdf/1408.5882.pdf), [[bibtex]](/Bibtex/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification.bib) sources: [[yoonkim/CNN_sentence]](https://github.com/yoonkim/CNN_sentence), [[dennybritz/cnn-text-classification-tf]](https://github.com/dennybritz/cnn-text-classification-tf).
@@ -37,6 +37,11 @@
 - [2018 AAAI] **Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM**, [[paper]](http://sentic.net/sentic-lstm.pdf).
 - [2018 Cognitive Computation] **Sentic LSTM: a Hybrid Network for Targeted Aspect-Based Sentiment Analysis**, [[paper]](https://link.springer.com/article/10.1007/s12559-018-9549-x), sources: [[SenticNet/sentic-lstm]](https://github.com/SenticNet/sentic-lstm).
 - [2019 ACL] **Multi-Source Cross-Lingual Model Transfer: Learning What to Share**, [[paper]](https://www.aclweb.org/anthology/P19-1299), [[bibtex]](/Bibtex/Multi-Source%20Cross-Lingual%20Model%20Transfer%20-%20Learning%20What%20to%20Share.bib), sources: [[microsoft/Multilingual-Model-Transfer]](https://github.com/microsoft/Multilingual-Model-Transfer).
+
+## Opinion Target Extraction & Target Sentiment Prediction
+- [2017 AAAI] **Recurrent Neural Networks with Auxiliary Labels for Cross-Domain Opinion Target Extraction**, [[paper]](https://pdfs.semanticscholar.org/d083/41562091ac6777f613a68a0d59eb600b5c57.pdf), [[bibtex]](/Bibtex/Recurrent%20Neural%20Networks%20with%20Auxiliary%20Labels%20for%20Cross-Domain%20Opinion%20Target%20Extraction.bib). 
+- [2019 AAAI] **A Unified Model for Opinion Target Extraction and Target Sentiment Prediction**, [[paper]](https://arxiv.org/pdf/1811.05082.pdf), [[bibtex]](/Bibtex/A%20Unified%20Model%20for%20Opinion%20Target%20Extraction%20and%20Target%20Sentiment%20Prediction.bib), [[slides]](https://lixin4ever.github.io/paper/AAAI2019/slides/aaai19_lixin_slides.pdf), sources: [[lixin4ever/E2E-TBSA]](https://github.com/lixin4ever/E2E-TBSA).
+- [2019 ACL] **An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis**, [[paper]](https://www.aclweb.org/anthology/P19-1048), [[bibtex]](/Bibtex/An%20Interactive%20Multi-Task%20Learning%20Network%20for%20End-to-End%20Aspect-Based%20Sentiment%20Analysis.bib), sources: [[ruidan/IMN-E2E-ABSA]](https://github.com/ruidan/IMN-E2E-ABSA).
 
 ## Stance Detection
 - [2016 ACM] **Stance and Sentiment in Tweets**, [[paper]](https://arxiv.org/pdf/1605.01655.pdf).
