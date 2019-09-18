@@ -42,6 +42,7 @@
 - [2017 AAAI] **Recurrent Neural Networks with Auxiliary Labels for Cross-Domain Opinion Target Extraction**, [[paper]](https://pdfs.semanticscholar.org/d083/41562091ac6777f613a68a0d59eb600b5c57.pdf), [[bibtex]](/Bibtex/Recurrent%20Neural%20Networks%20with%20Auxiliary%20Labels%20for%20Cross-Domain%20Opinion%20Target%20Extraction.bib). 
 - [2019 AAAI] **A Unified Model for Opinion Target Extraction and Target Sentiment Prediction**, [[paper]](https://arxiv.org/pdf/1811.05082.pdf), [[bibtex]](/Bibtex/A%20Unified%20Model%20for%20Opinion%20Target%20Extraction%20and%20Target%20Sentiment%20Prediction.bib), [[slides]](https://lixin4ever.github.io/paper/AAAI2019/slides/aaai19_lixin_slides.pdf), sources: [[lixin4ever/E2E-TBSA]](https://github.com/lixin4ever/E2E-TBSA).
 - [2019 ACL] **An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis**, [[paper]](https://www.aclweb.org/anthology/P19-1048), [[bibtex]](/Bibtex/An%20Interactive%20Multi-Task%20Learning%20Network%20for%20End-to-End%20Aspect-Based%20Sentiment%20Analysis.bib), sources: [[ruidan/IMN-E2E-ABSA]](https://github.com/ruidan/IMN-E2E-ABSA).
+- [2019 IJCAI] **A Span-based Joint Model for Opinion Target Extraction and Target Sentiment Classification**, [[paper]](https://www.ijcai.org/proceedings/2019/0762.pdf), [[bibtex]](/Bibtex/A%20Span-based%20Joint%20Model%20for%20Opinion%20Target%20Extraction%20and%20Target%20Sentiment%20Classification.bib).
 
 ## Stance Detection
 - [2016 ACM] **Stance and Sentiment in Tweets**, [[paper]](https://arxiv.org/pdf/1605.01655.pdf).
