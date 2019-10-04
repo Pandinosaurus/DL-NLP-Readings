@@ -77,5 +77,8 @@
 - [2017 ICLR] **Deep Bi-Affine Attention for Neural Dependency Parsing**, [[paper]](https://web.stanford.edu/~tdozat/files/TDozat-ICLR2017-Paper.pdf), [[bibtex]](/Bibtex/Deep%20Bi-Affine%20Attention%20for%20Neural%20Dependency%20Parsing.bib) sources: [[tdozat/Parser-v1]](https://github.com/tdozat/Parser-v1), [[tdozat/Parser-v2]](https://github.com/tdozat/Parser-v2).
 - [2018 ACL] **Simpler but More Accurate Semantic Dependency Parsing**, [[paper]](http://aclweb.org/anthology/P18-2077), [[bibtex]](/Bibtex/Simpler%20but%20More%20Accurate%20Semantic%20Dependency%20Parsing.bib).
 
-## Relation Extraction and Entity Linking
+## Relation Extraction
 - [2018 ACL] **DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction**, [[paper]](http://aclweb.org/anthology/P18-1046), [[bibtex]](/Bibtex/DSGAN%20-%20Generative%20Adversarial%20Training%20for%20Distant%20Supervision%20Relation%20Extraction.bib).
+
+## Entity Linking
+- [2019 ACL] **Boosting Entity Linking Performance by Leveraging Unlabeled Documents**, [[paper]](https://www.aclweb.org/anthology/P19-1187.pdf), [[bibtex]](/Bibtex/Boosting%20Entity%20Linking%20Performance%20by%20Leveraging%20Unlabeled%20Documents.bib), sources: [[lephong/wnel]](https://github.com/lephong/wnel).
