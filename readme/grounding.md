@@ -18,6 +18,7 @@
 - [2016 NIPS] **Hierarchical Question-Image Co-Attention for Visual Question Answering**, [[paper]](https://arxiv.org/pdf/1606.00061), [[bibtex]](/Bibtex/Hierarchical%20Question-Image%20Co-Attention%20for%20Visual%20Question%20Answering.bib), sources: [[karunraju/VQA]](https://github.com/karunraju/VQA), [[jiasenlu/HieCoAttenVQA]](https://github.com/jiasenlu/HieCoAttenVQA).
 - [2018 CVPR] **Visual Grounding via Accumulated Attention**, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Visual_Grounding_via_CVPR_2018_paper.pdf), [[bibtex]](/Bibtex/Visual%20Grounding%20via%20Accumulated%20Attention.bib).
 - [2019 ACL] **Multi-grained Attention with Object-level Grounding for Visual Question Answering**, [[paper]](https://www.aclweb.org/anthology/P19-1349), [[bibtex]](/Bibtex/Multi-grained%20Attention%20with%20Object-level%20Grounding%20for%20Visual%20Question%20Answering.bib).
+- [2019 EMNLP] **LXMERT: Learning Cross-Modality Encoder Representations from Transformers**, [[paper]](https://arxiv.org/pdf/1908.07490.pdf), [[bibtex]](/Bibtex/LXMERT%20-%20Learning%20Cross-Modality%20Encoder%20Representations%20from%20Transformers.bib), sources: [[airsplay/lxmert]](https://github.com/airsplay/lxmert).
 
 
 ## Video-based Visual Grounding

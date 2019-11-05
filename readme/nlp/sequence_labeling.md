@@ -57,6 +57,7 @@
 - [2019 ACL] **Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition**, [[paper]](https://www.aclweb.org/anthology/P19-1336), [[bibtex]](/Bibtex/Dual%20Adversarial%20Neural%20Transfer%20for%20Low-Resource%20Named%20Entity%20Recognition.bib).
 - [2019 TPAMI] **Dual Adversarial Transfer for Sequence Labeling**, [[paper]](/Documents/Papers/Dual%20Adversarial%20Transfer%20for%20Sequence%20Labeling.pdf), [[bibtex]](/Bibtex/Dual%20Adversarial%20Transfer%20for%20Sequence%20Labeling.bib).
 - [2019 ACL] **Multi-Source Cross-Lingual Model Transfer: Learning What to Share**, [[paper]](https://www.aclweb.org/anthology/P19-1299), [[bibtex]](/Bibtex/Multi-Source%20Cross-Lingual%20Model%20Transfer%20-%20Learning%20What%20to%20Share.bib), sources: [[microsoft/Multilingual-Model-Transfer]](https://github.com/microsoft/Multilingual-Model-Transfer).
+- [2019 ArXiv] **A Unified MRC Framework for Named Entity Recognition**, [[paper]](https://arxiv.org/pdf/1910.11476.pdf), [[bibtex]](/Bibtex/A%20Unified%20MRC%20Framework%20for%20Named%20Entity%20Recognition.bib).
 
 ## Semantic Role Labeling (SRL)
 - [2015 ACL] **End-to-end Learning of Semantic Role Labeling using Recurrent Neural Networks**, [[paper]](http://www.aclweb.org/anthology/P15-1109), [[bibtex]](/Bibtex/End-to-end%20Learning%20of%20Semantic%20Role%20Labeling%20using%20Recurrent%20Neural%20Networks.bib) sources: [[sanjaymeena/semantic_role_labeling_deep_learning]](https://github.com/sanjaymeena/semantic_role_labeling_deep_learning), [[hiroki13/neural-semantic-role-labeler]](https://github.com/hiroki13/neural-semantic-role-labeler).
@@ -77,8 +78,9 @@
 - [2017 ICLR] **Deep Bi-Affine Attention for Neural Dependency Parsing**, [[paper]](https://web.stanford.edu/~tdozat/files/TDozat-ICLR2017-Paper.pdf), [[bibtex]](/Bibtex/Deep%20Bi-Affine%20Attention%20for%20Neural%20Dependency%20Parsing.bib) sources: [[tdozat/Parser-v1]](https://github.com/tdozat/Parser-v1), [[tdozat/Parser-v2]](https://github.com/tdozat/Parser-v2).
 - [2018 ACL] **Simpler but More Accurate Semantic Dependency Parsing**, [[paper]](http://aclweb.org/anthology/P18-2077), [[bibtex]](/Bibtex/Simpler%20but%20More%20Accurate%20Semantic%20Dependency%20Parsing.bib).
 
-## Relation Extraction
+## Information/Relation Extraction
 - [2018 ACL] **DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction**, [[paper]](http://aclweb.org/anthology/P18-1046), [[bibtex]](/Bibtex/DSGAN%20-%20Generative%20Adversarial%20Training%20for%20Distant%20Supervision%20Relation%20Extraction.bib).
+- [2019 NAACL] **Open Information Extraction from Question-Answer Pairs**, [[paper]](https://www.aclweb.org/anthology/N19-1239.pdf), [[bibtex]](/Bibtex/Open%20Information%20Extraction%20from%20Question-Answer%20Pairs.bib).
 
 ## Entity Linking
 - [2019 ACL] **Boosting Entity Linking Performance by Leveraging Unlabeled Documents**, [[paper]](https://www.aclweb.org/anthology/P19-1187.pdf), [[bibtex]](/Bibtex/Boosting%20Entity%20Linking%20Performance%20by%20Leveraging%20Unlabeled%20Documents.bib), sources: [[lephong/wnel]](https://github.com/lephong/wnel).
