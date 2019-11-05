@@ -17,6 +17,7 @@
 - [2018 NAACL] **Multinomial Adversarial Networks for Multi-Domain Text Classification**, [[paper]](http://aclweb.org/anthology/N18-1111), [[bibtex]](/Bibtex/Multinomial%20Adversarial%20Networks%20for%20Multi-Domain%20Text%20Classification.bib) sources: [[ccsasuke/man]](https://github.com/ccsasuke/man).
 - [2018 ACL] **Joint Embedding of Words and Labels for Text Classification**, [[paper]](https://www.aclweb.org/anthology/P18-1216), [[bibtex]](/Bibtex/Joint%20Embedding%20of%20Words%20and%20Labels%20for%20Text%20Classification.bib), [[poster]](https://www.aclweb.org/anthology/attachments/P18-1216.Poster.pdf), sources: [[guoyinwang/LEAM]](https://github.com/guoyinwang/LEAM).
 - [2018 EMNLP] **Hierarchical Neural Networks for Sequential Sentence Classification in Medical Scientific Abstracts**, [[paper]](http://aclweb.org/anthology/D18-1349), [[bibtex]](/Bibtex/Hierarchical%20Neural%20Networks%20for%20Sequential%20Sentence%20Classification%20in%20Medical%20Scientific%20Abstracts.bib).
+- [2018 EMNLP] **MCapsNet: Capsule Network for Text with Multi-Task Learning**, [[paper]](https://www.aclweb.org/anthology/D18-1486.pdf), [[bibtex]](/Bibtex/MCapsNet%20-%20Capsule%20Network%20for%20Text%20with%20Multi-Task%20Learning.bib).
 - [2019 AAAI] **Graph Convolutional Networks for Text Classification**, [[paper]](https://arxiv.org/pdf/1809.05679.pdf), [[bibtex]](/Bibtex/Graph%20Convolutional%20Networks%20for%20Text%20Classification.bib), sources: [[yao8839836/text_gcn]](https://github.com/yao8839836/text_gcn).
 
 ## Sentiment Analysis
