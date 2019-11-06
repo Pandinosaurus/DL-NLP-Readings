@@ -38,6 +38,7 @@
 - [2018 AAAI] **Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM**, [[paper]](http://sentic.net/sentic-lstm.pdf).
 - [2018 Cognitive Computation] **Sentic LSTM: a Hybrid Network for Targeted Aspect-Based Sentiment Analysis**, [[paper]](https://link.springer.com/article/10.1007/s12559-018-9549-x), sources: [[SenticNet/sentic-lstm]](https://github.com/SenticNet/sentic-lstm).
 - [2019 ACL] **Multi-Source Cross-Lingual Model Transfer: Learning What to Share**, [[paper]](https://www.aclweb.org/anthology/P19-1299), [[bibtex]](/Bibtex/Multi-Source%20Cross-Lingual%20Model%20Transfer%20-%20Learning%20What%20to%20Share.bib), sources: [[microsoft/Multilingual-Model-Transfer]](https://github.com/microsoft/Multilingual-Model-Transfer).
+- [2019 ACL] **Towards Fine-grained Text Sentiment Transfer**, [[paper]](https://www.aclweb.org/anthology/P19-1194.pdf), [[bibtex]](/Bibtex/Towards%20Fine-grained%20Text%20Sentiment%20Transfer.bib), sources: [[luofuli/Fine-grained-Sentiment-Transfer]](https://github.com/luofuli/Fine-grained-Sentiment-Transfer).
 
 ## Opinion Target Extraction & Target Sentiment Prediction
 - [2017 AAAI] **Recurrent Neural Networks with Auxiliary Labels for Cross-Domain Opinion Target Extraction**, [[paper]](https://pdfs.semanticscholar.org/d083/41562091ac6777f613a68a0d59eb600b5c57.pdf), [[bibtex]](/Bibtex/Recurrent%20Neural%20Networks%20with%20Auxiliary%20Labels%20for%20Cross-Domain%20Opinion%20Target%20Extraction.bib). 
