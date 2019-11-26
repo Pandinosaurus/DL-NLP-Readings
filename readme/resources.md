@@ -19,12 +19,10 @@
 - **Data Mining: Practical Machine Learning Tools and Techniques**, [[book]](https://www.wi.hs-wismar.de/~cleve/vorl/projects/dm/ss13/HierarClustern/Literatur/WittenFrank-DM-3rd.pdf).
 
 ## Deep Learning for CV and NLP
-- **Neural Networks for NLP**, _Carnegie Mellon University (CMU) CS 11-747_, [[url]](http://www.phontron.com/class/nn4nlp2018/index.html).
+- **Neural Networks for NLP**, _Carnegie Mellon University (CMU) CS 11-747_, [[url]](http://phontron.com/class/nn4nlp2019/).
 - **CS231n: Convolutional Neural Networks for Visual Recognition**, _Stanford University_, [[url]](http://cs231n.stanford.edu).
-- **CS224d: Deep Learning for Natural Language Processing**, _Stanford University_, [[url]](http://cs224d.stanford.edu/index.html).
-- **CS6101: Deep Learning for NLP**, _National University of Singapore_, [[url]](http://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/#s).
-- **CS224n: Natural Language Processing with Deep Learning**, _Stanford University_, [[url]](http://web.stanford.edu/class/cs224n/), [[YouTube]](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja), [[Chinese notes]](http://www.hankcs.com/tag/cs224n/).
-- **Unsupervised Feature Learning and Deep Learning (UFLDL) Tutorial**, _Stanford University_, [[url]](http://ufldl.stanford.edu/tutorial/), [[another url]](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial), [[Chinese]](http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B).
+- **CS224n: Natural Language Processing with Deep Learning**, _Stanford University_, [[url]](http://web.stanford.edu/class/cs224n/).
+- **CS6101: Deep Learning for NLP**, _National University of Singapore_, [[url]](https://www.comp.nus.edu.sg/~kanmy/courses/6101_1810/).
 - **Theories of Deep Learning (STATS 385)**, _Stanford University_, [[url]](https://stats385.github.io/readings), [[YouTube]](https://www.youtube.com/playlist?list=PLL20C1i47eFCf9JNw1Ed1seBiIPltf5U0).
 - **Deep Learning Tutorial**, _李宏毅 (Hung-yi Lee)_, [[slides]](http://speech.ee.ntu.edu.tw/~tlkagk/slide/Deep%20Learning%20Tutorial%20Complete%20(v3)), [[Hung-yi Lee homepage]](http://speech.ee.ntu.edu.tw/~tlkagk/index.html).
 - **Deep Learning Tutorial**, _LISA lab, University of Montreal_, [[docs]](http://deeplearning.net/tutorial/deeplearning.pdf).
@@ -32,7 +30,6 @@
 - **Derivatives Backpropagation and Vectorization**, [[lecture notes]](http://cs231n.stanford.edu/handouts/derivatives.pdf).
 - **Deep Learning**, [[book]](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf), [[Chinese version book]](https://github.com/exacity/deeplearningbook-chinese), [[homepage]](http://www.deeplearningbook.org).
 - **Speech and Language Processing**, [[webside]](https://web.stanford.edu/~jurafsky/slp3/).
-- **Sentic Computing**, [[book]](http://sentic.net/sentic-computing.pdf).
 - **Handbook of Knowledge Representation**, [[book]](https://dai.fmph.uniba.sk/~sefranek/kri/handbook/handbook_of_kr.pdf).
 - **Deep Learning for NLP without Magic**, [[slides]](https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf).
 - **A Primer on Neural Network Models for Natural Language Processing**, [[book]](https://u.cs.biu.ac.il/~yogo/nnlp.pdf).
@@ -70,11 +67,7 @@
 - **Web Scraping with Python: Collecting Data from the Morden Web**, [[book]](https://yanfei.site/docs/dpsa/references/PyWebScrapingBook.pdf), [[book1]](http://index-of.es/Varios/Ryan%20Mitchell-Web%20Scraping%20with%20Python_%20Collecting%20Data%20from%20the%20Modern%20Web-O%27Reilly%20Media%20%282015%29.pdf).
 - **Core Python Application Programming 3rd Edition (Python核心编程第三版)**, [[book]](http://ptgmedia.pearsoncmg.com/images/9780132678209/samplepages/0132678209.pdf), [[Chinese version book]](https://github.com/skymyyang/dzbook/blob/master/Python核心编程第三版中文版.pdf).
 - **数据结构与算法-Python语言描述(裘宗燕)**, [[Chinese version book]](https://github.com/zjutjsj1004/python/blob/master/book/数据结构与算法%20Python语言描述_s13946445-裘宗燕.pdf).
-- **Learn Enough Git to Be Dangerous**, [[homepage]](https://www.learnenough.com/git-tutorial).
 - **Algorithms Tutorialhorizon**, [[homepage]](https://algorithms.tutorialhorizon.com).
-- **编程之法：面试和算法心得**, [[julycoding/The-Art-Of-Programming-By-July]](https://github.com/julycoding/The-Art-Of-Programming-By-July).
-- **BAT机器学习面试1000题系列**, [[url]](https://github.com/julycoding/BAT-ML-1000).
-- **Translate python documents to Chinese for convenient reference** [[url]](https://github.com/ictar/python-doc).
 
 ## Others
 - **LaTex Introduction**, [[book (cn)]](/Documents/Others/LaTex%20Intro.pdf), [[book (en)]](/Documents/Others/LaTex%20Intro%20EN.pdf).

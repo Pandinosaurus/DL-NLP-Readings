@@ -11,6 +11,7 @@
 - [2015 NIPS] **End-To-End Memory Networks**, [[paper]](https://arxiv.org/pdf/1503.08895.pdf), sources: [[facebook/MemNN]](https://github.com/facebook/MemNN), [[seominjoon/memnn-tensorflow]](https://github.com/seominjoon/memnn-tensorflow), [[domluna/memn2n]](https://github.com/domluna/memn2n), [[carpedm20/MemN2N-tensorflow]](https://github.com/carpedm20/MemN2N-tensorflow).
 
 ## Capsule Network
+- Papers and sources: [[sekwiatkowski/awesome-capsule-networks]](https://github.com/sekwiatkowski/awesome-capsule-networks).
 - [2017 NIPS] **Dynamic Routing Between Capsules**, [[paper]](https://arxiv.org/abs/1710.09829), [[blog]](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/), [[Understanding Hinton’s Capsule Networks]](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b), sources: [[soskek/dynamic_routing_between_capsules]](https://github.com/soskek/dynamic_routing_between_capsules), [[naturomics/CapsNet-Tensorflow]](https://github.com/naturomics/CapsNet-Tensorflow), [[XifengGuo/CapsNet-Keras]](https://github.com/XifengGuo/CapsNet-Keras).
 - [2019 Arxiv] **Reducing the dilution: An analysis of the information sensitiveness of capsule network with a practical improvement method**, [[paper]](https://arxiv.org/pdf/1903.10588.pdf), [[bibtex]](/Bibtex/Reducing%20the%20dilution%20-%20An%20analysis%20of%20the%20information%20sensitiveness%20of%20capsule%20network%20with%20a%20practical%20improvement%20method.bib).
 

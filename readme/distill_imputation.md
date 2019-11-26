@@ -1,6 +1,7 @@
 # Network Distillation and Data Imputation
 
 ## Network/Dataset Distillation
+- Knowledge Distillation Resources: [[dkozlov/awesome-knowledge-distillation]](https://github.com/dkozlov/awesome-knowledge-distillation).
 - [2014 NeurIPS] **Distilling the Knowledge in a Neural Network**, [[paper]](https://arxiv.org/pdf/1503.02531.pdf), [[bibtex]](/Bibtex/Distilling%20the%20Knowledge%20in%20a%20Neural%20Network.bib), sources: [[peterliht/knowledge-distillation-pytorch]](https://github.com/peterliht/knowledge-distillation-pytorch), [[a7b23/Distilling-the-knowledge-in-neural-network]](https://github.com/a7b23/Distilling-the-knowledge-in-neural-network), [[chengshengchan/model_compression]](https://github.com/chengshengchan/model_compression).
 - [2016 ICLR] **Unifying Distillation and Privileged Information**, [[paper]](https://arxiv.org/pdf/1511.03643.pdf), [[bibtex]](/Bibtex/Unifying%20Distillation%20and%20Privileged%20Information.bib).
 - [2018 NeurIPS] **KDGAN: Knowledge Distillation with Generative Adversarial Networks**, [[paper]](https://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks.pdf), [[bibtex]](/Bibtex/KDGAN%20-%20Knowledge%20Distillation%20with%20Generative%20Adversarial%20Networks.bib), [[homepage]](https://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks), sources: [[xiaojiew1/KDGAN]](https://github.com/xiaojiew1/KDGAN).

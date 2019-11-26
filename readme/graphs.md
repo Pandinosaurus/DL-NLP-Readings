@@ -2,6 +2,10 @@
 
 > Including **Graph Representation**, **Social Network Representation**, **Graph Convolutional Network** and etc.
 
+## Source
+- GitHub link: [[thunlp/GNNPapers]](https://github.com/thunlp/GNNPapers).
+- GitHub link: [[DeepGraphLearning/LiteratureDL4Graph]](https://github.com/DeepGraphLearning/LiteratureDL4Graph).
+
 ## Tutorial and Explanation
 - **How to understand Graph Convolutional Networks (GCN)**, [[zhihu blog]](https://www.zhihu.com/question/54504471).
 - **Graph Convolutional Networks (GCN) guide for beginner**, [[zhihu blog]](https://zhuanlan.zhihu.com/p/54505069).

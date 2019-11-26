@@ -34,4 +34,3 @@
 15. [Medical Field Research Works](/readme/medical.md)
 16. [Probabilistic Programming Languages](/readme/ppl.md)
 17. [Mathematics, Machine Learning, Deep Learning, Reinforcement Learning and Coding Resources](/readme/resources.md)
-18. [Useful GitHub Reading List](/readme/reading_list.md)

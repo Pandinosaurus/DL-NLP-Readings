@@ -1,5 +1,7 @@
 # Visual Grounding
 
+- Reading Resources: [[TheShadow29/awesome-grounding]](https://github.com/TheShadow29/awesome-grounding).
+
 ## Image-based Visual Grounding
 ### Image Retrieval
 - [2019 CVPR] **Deep Supervised Cross-modal Retrieval**, [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf), [[bibtex]](/Bibtex/Deep%20Supervised%20Cross-modal%20Retrieval.bib).

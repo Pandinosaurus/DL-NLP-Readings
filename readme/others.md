@@ -1,5 +1,8 @@
 # Other Research Works
 
+- Self-supervised Learning resources: [[jason718/awesome-self-supervised-learning]](https://github.com/jason718/awesome-self-supervised-learning).
+- Incremental Learning resources: [[xialeiliu/Awesome-Incremental-Learning]](https://github.com/xialeiliu/Awesome-Incremental-Learning).
+
 ## Error Correcting Output Code (ECOC)
 - [2016 ArXiv] **N-ary Error Correcting Coding Scheme**, [[paper]](https://arxiv.org/pdf/1603.05850.pdf), [[bibtex]](/Bibtex/N-ary%20Error%20Correcting%20Coding%20Scheme.bib).
 - [2018 JIIS] **Experimental Validation for N-ary Error Correcting Output Codes for Ensemble Learning of Deep Neural Networks**, [[paper]](/Documents/Papers/Experimental%20Validation%20for%20N-ary%20Error%20Correcting%20Output%20Codes%20for%20Ensemble%20Learning%20of%20Deep%20Neural%20Networks.pdf), [[bibtex]](/Bibtex/Experimental%20Validation%20for%20N-ary%20Error%20Correcting%20Output%20Codes%20for%20Ensemble%20Learning%20of%20Deep%20Neural%20Networks.bib).
