@@ -17,7 +17,7 @@
     11. [Text Summarization and Generation](/readme/nlp/summ_gene.md)
     12. [Interpretability, Disambiguation, Anaphora and Discourse](/readme/nlp/interpretability.md)
     13. [Other NLP Research Works](/readme/nlp/others.md)
-2. [Computer Vision (Classification, Detection, Recognition, Captioning and etc.)](/readme/cv.md)
+2. [Computer Vision (Classification, Detection, Recognition and etc.)](/readme/cv.md)
 3. [Graph and Social Network Representation](/readme/graphs.md)
 4. [Visual Grounding](/readme/grounding.md)
 5. [Label Embedding](/readme/label_embedding.md)
