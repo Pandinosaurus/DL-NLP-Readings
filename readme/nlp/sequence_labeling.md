@@ -81,6 +81,7 @@
 - [2018 ACL] **Simpler but More Accurate Semantic Dependency Parsing**, [[paper]](http://aclweb.org/anthology/P18-2077), [[bibtex]](/Bibtex/Simpler%20but%20More%20Accurate%20Semantic%20Dependency%20Parsing.bib).
 
 ## Information/Relation Extraction
+- [2017 TACL] **Cross-Sentence N-ary Relation Extraction with Graph LSTMs**, [[paper]](https://www.aclweb.org/anthology/Q17-1008.pdf), [[bibtex]](/Bibtex/Cross-Sentence%20N-ary%20Relation%20Extraction%20with%20Graph%20LSTMs.bib), sources: [[VioletPeng/GraphLSTM_release]](https://github.com/VioletPeng/GraphLSTM_release).
 - [2018 ACL] **DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction**, [[paper]](http://aclweb.org/anthology/P18-1046), [[bibtex]](/Bibtex/DSGAN%20-%20Generative%20Adversarial%20Training%20for%20Distant%20Supervision%20Relation%20Extraction.bib).
 - [2019 NAACL] **Open Information Extraction from Question-Answer Pairs**, [[paper]](https://www.aclweb.org/anthology/N19-1239.pdf), [[bibtex]](/Bibtex/Open%20Information%20Extraction%20from%20Question-Answer%20Pairs.bib).
 
