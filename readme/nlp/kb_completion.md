@@ -1,6 +1,6 @@
 # Knowledge Base/Graph Completion and Representation
 
-> Including **Knowledge Base Completion**, **Graph Completion**, **Knowledge Base Representation**, **Graph Representation** and **Relation Classification**.
+> Including **Commonsense**, **Knowledge Base Completion**, **Graph Completion**, **Knowledge Base Representation**, **Graph Representation** and **Relation Classification**.
 
 - [2013 NIPS] **Reasoning With Neural Tensor Networks for Knowledge Base Completion**, [[paper]](https://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf), sources: [[siddharth-agrawal/Neural-Tensor-Network]](https://github.com/siddharth-agrawal/Neural-Tensor-Network), [[dddoss/tensorflow-socher-ntn]](https://github.com/dddoss/tensorflow-socher-ntn).
 - [2013 NIPS] **TransE: Translating Embeddings for Modeling Multi-relational Data**, [[paper]](https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
@@ -10,6 +10,7 @@
 - [2015 ACL] **TransD: Knowledge Graph Embedding via Dynamic Mapping Matrix**, [[paper]](http://www.aclweb.org/anthology/P15-1067), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
 - [2016 AAAI] **Knowledge Graph Completion with Adaptive Sparse Transfer Matrix**, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11982/11693), sources: [[FrankWork/transparse]](https://github.com/FrankWork/transparse), [[thunlp/Fast-TransX]](https://github.com/thunlp/Fast-TransX).
 - [2016 ACL] **Commonsense Knowledge Base Completion**, [[paper]](http://ttic.uchicago.edu/~kgimpel/papers/li+etal.acl16.pdf), [[homepage]](http://ttic.uchicago.edu/~kgimpel/commonsense.html), sources: [[Lorraine333/ACL_CKBC]](https://github.com/Lorraine333/ACL_CKBC).
+- [2017 CIKM] **Commonsense for Machine Intelligence: Text to Knowledge and Knowledge to Text**, [[slides]](http://people.mpi-inf.mpg.de/~ntandon/presentations/cikm-2017-tutorial-commonsense/commonsense.pdf), [[CIKM 2017 Singapore Tutorials]](http://cikm2017.org/tutorialmain.html), [[Commonsense for Machine Intelligence, Allen Institute, CIKM 2017 TUTORIAL]](http://allenai.org/tutorials/csk/), [[Allen Institute]](http://allenai.org/index.html).
 - [2017 AKBC] **RelNet: End-to-End Modeling of Entities & Relations**, [[paper]](https://arxiv.org/pdf/1706.07179.pdf), [[homepage]](http://thetb.github.io).
 - [2017 EMNLP] **Context-Aware Representations for Knowledge Base Relation Extraction**, [[paper]](http://aclweb.org/anthology/D17-1188), sources: [[UKPLab/emnlp2017-relation-extraction]](https://github.com/UKPLab/emnlp2017-relation-extraction).
 - [2017 IJCAI] **Knowledge Transfer for Out-of-Knowledge-Base Entities: A Graph Neural Network Approach**, [[paper]](https://www.ijcai.org/proceedings/2017/0250.pdf), [[bibtex]](/Bibtex/Knowledge%20Transfer%20for%20Out-of-Knowledge-Base%20Entities%20-%20A%20Graph%20Neural%20Network%20Approach.bib), [[blog]](https://zhuanlan.zhihu.com/p/39822646).

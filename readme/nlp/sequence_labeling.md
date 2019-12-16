@@ -1,6 +1,6 @@
 # Sequence Labeling
 
-> Including **Part-of-Speech (POS) Tagging**, **Chunking**, **Named Entity Recognition (NER)**, **Semantic Role Labeling (SRL)**, **Punctuation Restoration**, **Sentence Segmentation**, **Dependency Parsing**, **Relation Extraction**, **Entity Linking** and etc.
+> Including **Part-of-Speech (POS) Tagging**, **Chunking**, **Named Entity Recognition (NER)**, **Semantic Role Labeling (SRL)**, **Punctuation Restoration**, **Sentence Segmentation**, **Dependency Parsing**, **Relation Extraction**, **Entity Linking**, **Discourse Relation** and etc.
 
 ## Part-of-Speech (POS) Tagging and Named Entity Recognition (NER)
 - [2010 ACL]  **On Jointly Recognizing and Aligning Bilingual Named Entities**, [[paper]](http://www.aclweb.org/anthology/P10-1065), [[bibtex]](/Bibtex/On%20Jointly%20Recognizing%20and%20Aligning%20Bilingual%20Named%20Entities.bib).
@@ -87,3 +87,6 @@
 
 ## Entity Linking
 - [2019 ACL] **Boosting Entity Linking Performance by Leveraging Unlabeled Documents**, [[paper]](https://www.aclweb.org/anthology/P19-1187.pdf), [[bibtex]](/Bibtex/Boosting%20Entity%20Linking%20Performance%20by%20Leveraging%20Unlabeled%20Documents.bib), sources: [[lephong/wnel]](https://github.com/lephong/wnel).
+
+## Discourse Relation
+- [2018 NAACL] **Improving Implicit Discourse Relation Classification by Modeling Inter-dependencies of Discourse Units in a Paragraph**, [[paper]](http://www.aclweb.org/anthology/N18-1013), [[bibtex]](/Bibtex/Improving%20Implicit%20Discourse%20Relation%20Classification%20by%20Modeling%20Inter-dependencies%29of%20Discourse%20Units%20in%20a%20Paragraph.bib), sources: [[ZeyuDai/paragraph_implicit_discourse_relations]](https://github.com/ZeyuDai/paragraph_implicit_discourse_relations).

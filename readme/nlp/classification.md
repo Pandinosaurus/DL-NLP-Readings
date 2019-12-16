@@ -29,6 +29,7 @@
 - [2016 EMNLP] **A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis**, [[paper]](https://arxiv.org/pdf/1609.02745.pdf).
 - [2016 EMNLP] **Attention-based LSTM for Aspect-level Sentiment Classification**, [[paper]](https://aclweb.org/anthology/D16-1058), sources: [[scaufengyang/TD-LSTM]](https://github.com/scaufengyang/TD-LSTM).
 - [2016 ICDM] **Convolutional MKL Based Multimodal Emotion Recognition and Sentiment Analysis**, [[paper]](http://sentic.net/convolutional-mkl-based-multimodal-sentiment-analysis.pdf), sources: [[SenticNet/multimodal-sentiment-detection]](https://github.com/SenticNet/multimodal-sentiment-detection).
+- [2017 ACL] **Learning When to Skim and When to Read**, [[paper]](http://www.aclweb.org/anthology/W17-2631), [[blog]](https://einstein.ai/research/learning-when-to-skim-and-when-to-read).
 - [2017 ICME] **Select-additive Learning: Improving Generalization in Multimodal Sentiment Analysis**, [[paper]](https://arxiv.org/pdf/1609.05244.pdf), sources: [[HaohanWang/SelectAdditiveLearning]](https://github.com/HaohanWang/SelectAdditiveLearning).
 - [2017 ICMI] **Multimodal Sentiment Analysis with Word-Level Fusion and Reinforcement Learning**, [[paper]](http://www.cs.cmu.edu/~pliang/papers/icmi2017-gme-camera.pdf).
 - [2017 ACM SIGIR] **Multitask Learning for Fine-Grained Twitter Sentiment Analysis**, [[paper]](https://arxiv.org/pdf/1707.03569.pdf), sources: [[balikasg/sigir2017]](https://github.com/balikasg/sigir2017).

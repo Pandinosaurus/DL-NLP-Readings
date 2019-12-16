@@ -1,5 +1,13 @@
-# Generative Adversarial Network (GAN)
+# Adversarial Training and Generative Adversarial Network (GAN)
 
+## Adversarial Training
+- [2015 ICML] **Unsupervised Domain Adaptation by Backpropagation**, [[paper]](http://proceedings.mlr.press/v37/ganin15.pdf), [[bibtex]](/Bibtex/Unsupervised%20Domain%20Adaptation%20by%20Backpropagation.bib), sources: [[shucunt/domain_adaptation]](https://github.com/shucunt/domain_adaptation), [[pumpikano/tf-dann]](https://github.com/pumpikano/tf-dann), [[kskdev/DANN]](https://github.com/kskdev/DANN), [[fungtion/DANN]](https://github.com/fungtion/DANN).
+- [2016 JMLR] **Domain-Adversarial Training of Neural Networks**, [[paper]](http://jmlr.org/papers/volume17/15-239/15-239.pdf), [[bibtex]](/Bibtex/Domain-Adversarial%20Training%20of%20Neural%20Networks.bib), sources: [[shucunt/domain_adaptation]](https://github.com/shucunt/domain_adaptation), [[pumpikano/tf-dann]](https://github.com/pumpikano/tf-dann), [[kskdev/DANN]](https://github.com/kskdev/DANN), [[fungtion/DANN]](https://github.com/fungtion/DANN).
+- [2016 ICLR] **Distributional Smoothing with Virtual Adversarial Training**, [[paper]](https://arxiv.org/pdf/1507.00677.pdf), [[bibtex]](/Bibtex/Distributional%20Smoothing%20with%20Virtual%20Adversarial%20Training.bib), sources: [[takerum/vat_tf]](https://github.com/takerum/vat_tf), [[lyakaap/VAT-pytorch]](https://github.com/lyakaap/VAT-pytorch), [[takerum/vat]](https://github.com/takerum/vat), [[takerum/vat_chainer]](https://github.com/takerum/vat_chainer/).
+- [2018 TPAMI] **Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning**, [[paper]](https://arxiv.org/pdf/1704.03976.pdf), [[bibtex]](/Bibtex/Virtual%20Adversarial%20Training%20-%20A%20Regularization%20Method%20for%20Supervised%20and%20Semi-Supervised%20Learning.bib), [[homepage]](https://takerum.github.io), sources: [[takerum/vat_tf]](https://github.com/takerum/vat_tf), [[lyakaap/VAT-pytorch]](https://github.com/lyakaap/VAT-pytorch), [[takerum/vat]](https://github.com/takerum/vat), [[takerum/vat_chainer]](https://github.com/takerum/vat_chainer/).
+
+
+## Generative Adversarial Network (GAN)
 - Awesome-GANs papers and codes: [[kozistr/Awesome-GANs]](https://github.com/kozistr/Awesome-GANs), [[hollobit/All-About-the-GAN]](https://github.com/hollobit/All-About-the-GAN).
 
 - [2014 NIPS] **Generative Adversarial Nets**, [[paper]](https://arxiv.org/abs/1406.2661), sources: [[goodfeli/adversarial]](https://github.com/goodfeli/adversarial), [[aymericdamien/TensorFlow-Examples]](https://github.com/aymericdamien/TensorFlow-Examples).
