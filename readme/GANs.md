@@ -9,7 +9,6 @@
 
 ## Generative Adversarial Network (GAN)
 - Awesome-GANs papers and codes: [[kozistr/Awesome-GANs]](https://github.com/kozistr/Awesome-GANs), [[hollobit/All-About-the-GAN]](https://github.com/hollobit/All-About-the-GAN).
-
 - [2014 NIPS] **Generative Adversarial Nets**, [[paper]](https://arxiv.org/abs/1406.2661), sources: [[goodfeli/adversarial]](https://github.com/goodfeli/adversarial), [[aymericdamien/TensorFlow-Examples]](https://github.com/aymericdamien/TensorFlow-Examples).
 - [2016 ICLR] **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**, [[paper]](https://arxiv.org/abs/1511.06434), sources: [[Newmu/dcgan_code]](https://github.com/Newmu/dcgan_code).
 - [2017 ICML] **Wasserstein Generative Adversarial Networks**, [[paper]](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf), [[supplementary]](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a-supp.pdf), [[bibtex]](/Bibtex/Wasserstein%20Generative%20Adversarial%20Networks.bib), [[homepage]](http://proceedings.mlr.press/v70/arjovsky17a.html), sources: [[kpandey008/wasserstein-gans]](https://github.com/kpandey008/wasserstein-gans), [[martinarjovsky/WassersteinGAN]](https://github.com/martinarjovsky/WassersteinGAN), [[luslab/scRNAseq-WGAN-GP]](https://github.com/luslab/scRNAseq-WGAN-GP).

@@ -7,6 +7,11 @@
 - [2016 ArXiv] **N-ary Error Correcting Coding Scheme**, [[paper]](https://arxiv.org/pdf/1603.05850.pdf), [[bibtex]](/Bibtex/N-ary%20Error%20Correcting%20Coding%20Scheme.bib).
 - [2018 JIIS] **Experimental Validation for N-ary Error Correcting Output Codes for Ensemble Learning of Deep Neural Networks**, [[paper]](/Documents/Papers/Experimental%20Validation%20for%20N-ary%20Error%20Correcting%20Output%20Codes%20for%20Ensemble%20Learning%20of%20Deep%20Neural%20Networks.pdf), [[bibtex]](/Bibtex/Experimental%20Validation%20for%20N-ary%20Error%20Correcting%20Output%20Codes%20for%20Ensemble%20Learning%20of%20Deep%20Neural%20Networks.bib).
 
+## Label Embeddings
+- [2018 ACL] **Multi-Task Label Embedding for Text Classification**, [[paper]](https://www.aclweb.org/anthology/D18-1484), [[bibtex]](/Bibtex/Multi-Task%20Label%20Embedding%20for%20Text%20Classification.bib), [[blog]](https://www.jianshu.com/p/4bbe061f0acd).
+- [2018 ACL] **Joint Embedding of Words and Labels for Text Classification**, [[paper]](https://www.aclweb.org/anthology/P18-1216), [[bibtex]](/Bibtex/Joint%20Embedding%20of%20Words%20and%20Labels%20for%20Text%20Classification.bib), [[poster]](https://www.aclweb.org/anthology/attachments/P18-1216.Poster.pdf), sources: [[guoyinwang/LEAM]](https://github.com/guoyinwang/LEAM).
+- [2018 TACL] **GILE: A Generalized Input-Label Embedding for Text Classification**, [[paper]](https://www.aclweb.org/anthology/Q19-1009), [[bibtex]](/Bibtex/GILE%20-%20A%20Generalized%20Input-Label%20Embedding%20for%20Text%20Classification.bib), sources: [[idiap/gile]](https://github.com/idiap/gile).
+
 ## Recommendation System
 - [2018 ArXiv] **Next Item Recommendation with Self-Attention**, [[paper]](https://arxiv.org/pdf/1808.06414.pdf), [[bibtex]](/Bibtex/Next%20Item%20Recommendation%20with%20Self-Attention.bib).
 - [2018 ICDM] **Self-Attentive Sequential Recommendation**, [[paper]](https://arxiv.org/pdf/1808.09781.pdf), [[bibtex]](/Bibtex/Self-Attentive%20Sequential%20Recommendation.bib), sources: [[kang205/SASRec]](https://github.com/kang205/SASRec).

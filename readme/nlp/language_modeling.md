@@ -1,5 +1,4 @@
 # Language Modeling Systems and Extensions
-
 - sources: [[thunlp/PLMpapers]](https://github.com/thunlp/PLMpapers).
 - **Transferring NLP models across languages and domains**, [[slides]](https://syntaxfest.github.io/syntaxfest19/slides/invited_talk_syntaxfest_plank.pdf).
 - [2017 ICML] **Language Modeling with Gated Convolutional Networks**, [[paper]](https://arxiv.org/pdf/1612.08083.pdf), sources: [[anantzoid/Language-Modeling-GatedCNN]](https://github.com/anantzoid/Language-Modeling-GatedCNN), [[jojonki/Gated-Convolutional-Networks]](https://github.com/jojonki/Gated-Convolutional-Networks).
