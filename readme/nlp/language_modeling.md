@@ -1,4 +1,6 @@
 # Language Modeling Systems and Extensions
+
+## Language Models
 - sources: [[thunlp/PLMpapers]](https://github.com/thunlp/PLMpapers).
 - **Transferring NLP models across languages and domains**, [[slides]](https://syntaxfest.github.io/syntaxfest19/slides/invited_talk_syntaxfest_plank.pdf).
 - [2017 ICML] **Language Modeling with Gated Convolutional Networks**, [[paper]](https://arxiv.org/pdf/1612.08083.pdf), sources: [[anantzoid/Language-Modeling-GatedCNN]](https://github.com/anantzoid/Language-Modeling-GatedCNN), [[jojonki/Gated-Convolutional-Networks]](https://github.com/jojonki/Gated-Convolutional-Networks).
@@ -24,11 +26,15 @@
 - [2019 ACL] **ERNIE: Enhanced Language Representation with Informative Entities**, [[paper]](https://arxiv.org/pdf/1905.07129.pdf), [[bibtex]](/Bibtex/ERNIE%20-%20Enhanced%20Language%20Representation%20with%20Informative%20Entities.bib), [[blog]](https://www.jiqizhixin.com/articles/2019-05-26-4), sources: [[thunlp/ERNIE]](https://github.com/thunlp/ERNIE).
 - [2019 IJCNLP] **Cloze-driven Pretraining of Self-attention Networks**, [[paper]](https://arxiv.org/pdf/1903.07785.pdf), [[bibtex]](/Bibtex/Cloze-driven%20Pretraining%20of%20Self-attention%20Networks.bib).
 - [2019 NeurIPS] **XLNet: Generalized Autoregressive Pretraining for Language Understanding**, [[paper]](https://papers.nips.cc/paper/8812-xlnet-generalized-autoregressive-pretraining-for-language-understanding.pdf), [[bibtex]](/Bibtex/XLNet%20-%20Generalized%20Autoregressive%20Pretraining%20for%20Language%20Understanding.bib), [[Supplementary]](https://papers.nips.cc/paper/8812-xlnet-generalized-autoregressive-pretraining-for-language-understanding), sources: [[zihangdai/xlnet]](https://github.com/zihangdai/xlnet).
-- [2019 EMNLP] **Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT**, [[paper]](https://www.aclweb.org/anthology/D19-1077.pdf), [[bibtex]](/Bibtex/Beto%20Bentz%20Becas%20-%20The%20Surprising%20Cross-Lingual%20Effectiveness%20of%20BERT.bib), sources: [[shijie-wu/crosslingual-nlp]](https://github.com/shijie-wu/crosslingual-nlp).
-- [2019 ArXiv] **How multilingual is Multilingual BERT?**, [[paper]](https://arxiv.org/pdf/1906.01502.pdf), [[bibtex]](/Bibtex/How%20multilingual%20is%20Multilingual%20BERT.bib).
 - [2019 ArXiv] **K-BERT: Enabling Language Representation with Knowledge Graph**, [[paper]](https://arxiv.org/pdf/1909.07606.pdf), [[bibtex]](/Bibtex/K-BERT%20-%20Enabling%20Language%20Representation%20with%20Knowledge%20Graph.bib).
 - [2019 ArXiv] **M-BERT: Injecting Multimodal Information in the BERT Structure**, [[paper]](https://arxiv.org/pdf/1908.05787.pdf), [[bibtex]](/Bibtex/M-BERT%20-%20Injecting%20Multimodal%20Information%20in%20the%20BERT%20Structure.bib).
 - [2019 ArXiv] **RoBERTa: A Robustly Optimized BERT Pretraining Approach**, [[paper]](https://arxiv.org/pdf/1907.11692.pdf), [[bibtex]](/Bibtex/RoBERTa%20-%20A%20Robustly%20Optimized%20BERT%20Pretraining%20Approach.bib), sources: [[pytorch/fairseq]](https://github.com/pytorch/fairseq/tree/master/examples/roberta).
 - [2019 ArXiv] **TinyBERT: Distilling BERT for Natural Language Understanding**, [[paper]](https://arxiv.org/pdf/1909.10351.pdf), [[bibtex]](/Bibtex/TinyBERT%20-%20Distilling%20BERT%20for%20Natural%20Language%20Understanding.bib).
 - [2019 ArXiv] **ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations**, [[paper]](https://arxiv.org/pdf/1909.11942.pdf), [[bibtex]](/Bibtex/ALBERT%20-%20A%20Lite%20BERT%20for%20Self-Supervised%20Learning%20of%20Language%20Representations.bib).
 - [2019 ArXiv] **Emerging Cross-lingual Structure in Pretrained Language Models**, [[paper]](https://arxiv.org/pdf/1911.01464.pdf), [[bibtex]](/Bibtex/Emerging%20Cross-lingual%20Structure%20in%20Pretrained%20Language%20Models.bib).
+
+## Language Model Analysis
+- [2019 ArXiv] **How multilingual is Multilingual BERT?**, [[paper]](https://arxiv.org/pdf/1906.01502.pdf), [[bibtex]](/Bibtex/How%20multilingual%20is%20Multilingual%20BERT.bib).
+- [2019 ACL] **What does BERT learn about the structure of language?**, [[paper]](https://www.aclweb.org/anthology/P19-1356.pdf), [[bibtex]](/Bibtex/What%20does%20BERT%20learn%20about%20the%20structure%20of%20language.bib), sources: [[ganeshjawahar/interpret_bert]](https://github.com/ganeshjawahar/interpret_bert).
+- [2019 EMNLP] **Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT**, [[paper]](https://www.aclweb.org/anthology/D19-1077.pdf), [[bibtex]](/Bibtex/Beto%20Bentz%20Becas%20-%20The%20Surprising%20Cross-Lingual%20Effectiveness%20of%20BERT.bib), sources: [[shijie-wu/crosslingual-nlp]](https://github.com/shijie-wu/crosslingual-nlp).
+- [2019 ArXiv] **What does BERT Learn from Multiple-Choice Reading Comprehension Datasets?**, [[paper]](https://arxiv.org/pdf/1910.12391.pdf), [[bibtex]](/Bibtex/What%20does%20BERT%20Learn%20from%20Multiple-Choice%20Reading%20Comprehension%20Datasets.bib).

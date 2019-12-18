@@ -59,6 +59,7 @@
 - [2019 ACL] **Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition**, [[paper]](https://www.aclweb.org/anthology/P19-1336), [[bibtex]](/Bibtex/Dual%20Adversarial%20Neural%20Transfer%20for%20Low-Resource%20Named%20Entity%20Recognition.bib).
 - [2019 TPAMI] **Dual Adversarial Transfer for Sequence Labeling**, [[paper]](/Documents/Papers/Dual%20Adversarial%20Transfer%20for%20Sequence%20Labeling.pdf), [[bibtex]](/Bibtex/Dual%20Adversarial%20Transfer%20for%20Sequence%20Labeling.bib).
 - [2019 ACL] **Multi-Source Cross-Lingual Model Transfer: Learning What to Share**, [[paper]](https://www.aclweb.org/anthology/P19-1299), [[bibtex]](/Bibtex/Multi-Source%20Cross-Lingual%20Model%20Transfer%20-%20Learning%20What%20to%20Share.bib), sources: [[microsoft/Multilingual-Model-Transfer]](https://github.com/microsoft/Multilingual-Model-Transfer).
+- [2019 ACL] **GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling**, [[paper]](https://www.aclweb.org/anthology/P19-1233.pdf), [[bibtex]](/Bibtex/GCDT%20-%20A%20Global%20Context%20Enhanced%20Deep%20Transition%20Architecture%20for%20Sequence%20Labeling.bib), sources: [[Adaxry/GCDT]](https://github.com/Adaxry/GCDT).
 - [2019 ArXiv] **A Unified MRC Framework for Named Entity Recognition**, [[paper]](https://arxiv.org/pdf/1910.11476.pdf), [[bibtex]](/Bibtex/A%20Unified%20MRC%20Framework%20for%20Named%20Entity%20Recognition.bib).
 
 ## Semantic Role Labeling (SRL)
