@@ -1,11 +1,14 @@
 # Zero/Few Shot Learning, Meta Learning, Domain Adaptation and Generalization
 
-# Zero/Few Shot Learning
+## Resources
+- GitHub Link: [[sudharsan13296/Awesome-Meta-Learning]](https://github.com/sudharsan13296/Awesome-Meta-Learning).
+- [2019 ICML Tutorial] **Meta-Learning: from Few-Shot Learning to Rapid Reinforcement Learning**, [[homepage]](https://sites.google.com/view/icml19metalearning), [[slides]](https://icml.cc/media/Slides/icml/2019/halla%2810-09-15%29-10-13-00-4340-meta-learning_.pdf).
+
+## Zero/Few Shot Learning
 - [2018 CVPR] **Zero-Shot Visual Recognition using Semantics-Preserving**, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Zero-Shot_Visual_Recognition_CVPR_2018_paper.pdf), [[bibtex]](/Bibtex/Zero-Shot%20Visual%20Recognition%20using%20Semantics-Preserving.bib), sources: [[zjuchenlong/sp-aen.cvpr18]](https://github.com/zjuchenlong/sp-aen.cvpr18).
 - [2019 ArXiv] **Few-Shot Text Classification with Induction Network**, [[paper]](https://arxiv.org/pdf/1902.10482.pdf), [[bibtex]](/Bibtex/Few-Shot%20Text%20Classification%20with%20Induction%20Network.bib).
 
-# Meta Learning
-- Resources: [[sudharsan13296/Awesome-Meta-Learning]](https://github.com/sudharsan13296/Awesome-Meta-Learning).
+## Meta Learning
 - [2016 ICML] **Meta-Learning with Memory-Augmented Neural Networks**, [[paper]](http://proceedings.mlr.press/v48/santoro16.pdf), [[bibtex]](/Bibtex/Meta-Learning%20with%20Memory-Augmented%20Neural%20Networks.bib), [[supplementary]](http://proceedings.mlr.press/v48/santoro16-supp.pdf), sources: [[snowkylin/ntm]](https://github.com/snowkylin/ntm), [[ywatanabex/ntm-meta-learning]](https://github.com/ywatanabex/ntm-meta-learning).
 - [2017 ICML] **Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**, [[paper]](https://arxiv.org/pdf/1703.03400.pdf), [[bibtex]](/Bibtex/Model-Agnostic%20Meta-Learning%20for%20Fast%20Adaptation%20of%20Deep%20Networks.bib), [[blog]](https://zhuanlan.zhihu.com/p/57864886), sources: [[cbfinn/maml]](https://github.com/cbfinn/maml), [[cbfinn/maml_rl]](https://github.com/cbfinn/maml_rl), [[dragen1860/MAML-Pytorch]](https://github.com/dragen1860/MAML-Pytorch), [[tristandeleu/pytorch-maml-rl]](https://github.com/tristandeleu/pytorch-maml-rl), [[katerakelly/pytorch-maml]](https://github.com/katerakelly/pytorch-maml), [[learnables/learn2learn]](https://github.com/learnables/learn2learn).
 - [2018 ArXiv] **On First-Order Meta-Learning Algorithms**, [[paper]](https://arxiv.org/pdf/1803.02999.pdf), [[bibtex]](/Bibtex/On%20First-Order%20Meta-Learning%20Algorithms.bib), sources: [[openai/supervised-reptile]](https://github.com/openai/supervised-reptile), [[greentfrapp/maml-reptile]](https://github.com/greentfrapp/maml-reptile).
