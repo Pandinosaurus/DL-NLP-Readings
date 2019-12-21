@@ -1,4 +1,4 @@
-# Visual Grounding
+# Visual Grounding and Multi-Modality Learning
 
 - Reading Resources: [[TheShadow29/awesome-grounding]](https://github.com/TheShadow29/awesome-grounding).
 
