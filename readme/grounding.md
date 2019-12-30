@@ -2,10 +2,23 @@
 
 - Reading Resources: [[TheShadow29/awesome-grounding]](https://github.com/TheShadow29/awesome-grounding).
 
+## Survey
+- [2019 ArXiv] **Multimodal Intelligence: Representation Learning Information Fusion and Applications**, [[paper]](https://arxiv.org/pdf/1911.03977.pdf), [[bibtex]](/Bibtex/Multimodal%20Intelligence%20-%20Representation%20Learning%20Information%20Fusion%20and%20Applications.bib).
+
 ## Image-based Visual Grounding
+### Image-based Vision-and-Language Modelling
+- [2019 NeurIPS] **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks**, [[paper]](https://papers.nips.cc/paper/8297-vilbert-pretraining-task-agnostic-visiolinguistic-representations-for-vision-and-language-tasks.pdf), [[bibtex]](/Bibtex/ViLBERT%20-%20Pretraining%20Task-Agnostic%20Visiolinguistic%20Representations%20for%20Vision-and-Language%20Tasks.bib), sources: [[jiasenlu/vilbert_beta]](https://github.com/jiasenlu/vilbert_beta).
+- [2019 ArXiv] **VisualBERT: A Simple and Performant Baseline for Vision and Language**, [[paper]](https://arxiv.org/pdf/1908.03557.pdf), [[bibtex]](/Bibtex/VisualBERT%20-%20A%20Simple%20and%20Performant%20Baseline%20for%20Vision%20and%20Language.bib), sources: [[uclanlp/visualbert]](https://github.com/uclanlp/visualbert).
+- [2019 EMNLP] **LXMERT: Learning Cross-Modality Encoder Representations from Transformers**, [[paper]](https://www.aclweb.org/anthology/D19-1514.pdf), [[bibtex]](/Bibtex/LXMERT%20-%20Learning%20Cross-Modality%20Encoder%20Representations%20from%20Transformers.bib), sources: [[airsplay/lxmert]](https://github.com/airsplay/lxmert).
+- [2019 ArXiv] **UNITER: Learning Universal Image-Text Representations**, [[paper]](https://arxiv.org/pdf/1909.11740.pdf), [[bibtex]](/Bibtex/UNITER%20-%20Learning%20Universal%20Image-Text%20Representations.bib).
+- [2020 AAAI] **Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training**, [[paper]](https://arxiv.org/pdf/1908.06066.pdf), [[bibtex]](/Bibtex/Unicoder-VL%20-%20A%20Universal%20Encoder%20for%20Vision%20and%20Language%20by%20Cross-modal%20Pre-training.bib).
+- [2020 ICLR] **VL-BERT: Pre-training of Generic Visual-Linguistic Representations**, [[paper]](https://openreview.net/pdf?id=SygXPaEYvH), [[bibtex]](/Bibtex/VL-BERT%20-%20Pre-training%20of%20Generic%20Visual-Linguistic%20Representations.bib), sources: [[jackroos/VL-BERT]](https://github.com/jackroos/VL-BERT).
+- [2020 ICLR] **Variational Hetero-Encoder Randomized GANs for Joint Image-Text Modeling**, [[paper]](https://openreview.net/pdf?id=H1x5wRVtvS), [[bibtex]](/Bibtex/Variational%20Hetero-Encoder%20Randomized%20GANs%20for%20Joint%20Image-Text%20Modeling.bib).
+
 ### Image Retrieval
 - [2019 CVPR] **Deep Supervised Cross-modal Retrieval**, [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf), [[bibtex]](/Bibtex/Deep%20Supervised%20Cross-modal%20Retrieval.bib).
 - [2019 SIGIR] **Scalable Deep Multimodal Learning for Cross-Modal Retrieval**, [[paper]](/Documents/Papers/Scalable%20Deep%20Multimodal%20Learning%20for%20Cross-Modal%20Retrieval.pdf), [[bibtex]](/Bibtex/Scalable%20Deep%20Multimodal%20Learning%20for%20Cross-Modal%20Retrieval.bib).
+- [2019 ACMMM] **A New Benchmark and Approach for Fine-grained Cross-media Retrieval**, [[paper]](https://arxiv.org/pdf/1907.04476.pdf), [[bibtex]](/Bibtex/A%20New%20Benchmark%20and%20Approach%20for%20Fine-grained%20Cross-media%20Retrieval.bib), [[homepage]](http://59.108.48.34/tiki/FGCrossNet/), sources: [[PKU-ICST-MIPL/FGCrossNet_ACMMM2019]](https://github.com/PKU-ICST-MIPL/FGCrossNet_ACMMM2019).
 
 ### Image Captioning
 - [2015 ICML] **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**, [[paper]](https://arxiv.org/pdf/1502.03044.pdf), [[slides]](http://www.cs.toronto.edu/~fidler/slides/2017/CSC2539/Katherine_slides.pdf), [[bibtex]](/Bibtex/Neural%20Image%20Caption%20Generation%20with%20Visual%20Attention.bib),  [[homepage]](http://kelvinxu.github.io/projects/capgen.html), sources: [[kelvinxu/arctic-captions]](https://github.com/kelvinxu/arctic-captions), [[yunjey/show-attend-and-tell]](https://github.com/yunjey/show-attend-and-tell), [[DeepRNN/image_captioning]](https://github.com/DeepRNN/image_captioning), [[coldmanck/show-attend-and-tell]](https://github.com/coldmanck/show-attend-and-tell).
@@ -17,16 +30,21 @@
 ### Text-based Image Edit
 - [2019 ACL] **Expressing Visual Relationships via Language**, [[paper]](https://www.aclweb.org/anthology/P19-1182.pdf), [[bibtex]](/Bibtex/Expressing%20Visual%20Relationships%20via%20Language.bib), sources: [[airsplay/VisualRelationships]](https://github.com/airsplay/VisualRelationships).
 
-### Visual Question Answering
+### Visual Question Answering and Visual Commonsense Reasoning
 - [2016 NIPS] **Hierarchical Question-Image Co-Attention for Visual Question Answering**, [[paper]](https://arxiv.org/pdf/1606.00061), [[bibtex]](/Bibtex/Hierarchical%20Question-Image%20Co-Attention%20for%20Visual%20Question%20Answering.bib), sources: [[karunraju/VQA]](https://github.com/karunraju/VQA), [[jiasenlu/HieCoAttenVQA]](https://github.com/jiasenlu/HieCoAttenVQA).
 - [2018 CVPR] **Visual Grounding via Accumulated Attention**, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Visual_Grounding_via_CVPR_2018_paper.pdf), [[bibtex]](/Bibtex/Visual%20Grounding%20via%20Accumulated%20Attention.bib).
 - [2019 ACL] **Multi-grained Attention with Object-level Grounding for Visual Question Answering**, [[paper]](https://www.aclweb.org/anthology/P19-1349.pdf), [[bibtex]](/Bibtex/Multi-grained%20Attention%20with%20Object-level%20Grounding%20for%20Visual%20Question%20Answering.bib).
-- [2019 EMNLP] **LXMERT: Learning Cross-Modality Encoder Representations from Transformers**, [[paper]](https://www.aclweb.org/anthology/D19-1514.pdf), [[bibtex]](/Bibtex/LXMERT%20-%20Learning%20Cross-Modality%20Encoder%20Representations%20from%20Transformers.bib), sources: [[airsplay/lxmert]](https://github.com/airsplay/lxmert).
+- [2019 EMNLP] **B2T2: Fusion of Detected Objects in Text for Visual Question Answering**, [[paper]](https://www.aclweb.org/anthology/D19-1219.pdf), [[bibtex]](/Bibtex/Fusion%20of%20Detected%20Objects%20in%20Text%20for%20Visual%20Question%20Answering.bib), sources: [[google-research/language/language/question_answering/b2t2/]](https://github.com/google-research/language/tree/master/language/question_answering/b2t2).
+- [2019 ICCV] **Multi-modality Latent Interaction Network for Visual Question Answering**, [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Multi-Modality_Latent_Interaction_Network_for_Visual_Question_Answering_ICCV_2019_paper.pdf), [[bibtex]](/Bibtex/Multi-modality%20Latent%20Interaction%20Network%20for%20Visual%20Question%20Answering.bib).
 
 
 ## Video-based Visual Grounding
+### Video-based Vision-and-Language Modelling
+- [2019 ICCV] **VideoBERT: A Joint Model for Video and Language Representation Learning**, [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf), [[bibtex]](/Bibtex/VideoBERT%20-%20A%20Joint%20Model%20for%20Video%20and%20Language%20Representation%20Learning.bib).
+- [2019 ArXiv] **Learning Video Representations Using Contrastive Bidirectional Transformer**, [[paper]](https://arxiv.org/pdf/1906.05743.pdf), [[bibtex]](/Bibtex/Learning%20Video%20Representations%20Using%20Contrastive%20Bidirectional%20Transformer.bib).
+
 ### Video Captioning
-- [2015 ICCV] **Sequence to Sequence – Video to Text**, [[paper]](http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf), [[bibtex]](/Bibtex/Sequence%20to%20Sequence%20–%20Video%20to%20Text.bib), [[homepage]](https://vsubhashini.github.io/s2vt.html), sources: [[vsubhashini/caffe/examples/s2vt]](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt).
+- [2015 ICCV] **Sequence to Sequence: Video to Text**, [[paper]](http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf), [[bibtex]](/Bibtex/Sequence%20to%20Sequence%20–%20Video%20to%20Text.bib), [[homepage]](https://vsubhashini.github.io/s2vt.html), sources: [[vsubhashini/caffe/examples/s2vt]](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt).
 - [2017 ICCV] **Dense-Captioning Events in Videos**, [[paper]](https://arxiv.org/pdf/1705.00754.pdf), [[bibtex]](/Bibtex/Dense-Captioning%20Events%20in%20Videos.bib), [[homepage]](https://cs.stanford.edu/people/ranjaykrishna/densevid/), source: [[ranjaykrishna/densevid_eval]](https://github.com/ranjaykrishna/densevid_eval).
 - [2018 CVPR] **Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning**, [[paper]](https://arxiv.org/pdf/1804.00100.pdf), [[bibtex]](/Bibtex/Bidirectional%20Attentive%20Fusion%20with%20Context%20Gating%20for%20Dense%20Video%20Captioning.bib), sources: [[JaywongWang/DenseVideoCaptioning]](https://github.com/JaywongWang/DenseVideoCaptioning).
 - [2018 CVPR] **End-to-End Dense Video Captioning with Masked Transformer**, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.pdf), [[bibtex]](/Bibtex/End-to-End%20Dense%20Video%20Captioning%20with%20Masked%20Transformer.bib), sources: [[salesforce/densecap]](https://github.com/salesforce/densecap).
@@ -37,7 +55,7 @@
 - [2019 ACL] **Dense Procedure Captioning in Narrated Instructional Videos**, [[paper]](https://www.aclweb.org/anthology/P19-1641.pdf), [[bibtex]](/Bibtex/Dense%20Procedure%20Captioning%20in%20Narrated%20Instructional%20Videos.bib).
 - [2019 ACL] **Multimodal Abstractive Summarization for How2 Videos**, [[paper]](https://www.aclweb.org/anthology/P19-1659.pdf), [[bibtex]](/Bibtex/Multimodal%20Abstractive%20Summarization%20for%20How2%20Videos.bib).
 
-### Video Clip Localization
+### Natural Language Video Localization
 - [2017 ICCV] **Localizing Moments in Video with Natural Language**, [[paper]](https://people.eecs.berkeley.edu/~lisa_anne/didemo/paper_arxiv.pdf), [[bibtex]](/Bibtex/Localizing%20Moments%20in%20Video%20with%20Natural%20Language.bib), sources: [[LisaAnne/LocalizingMoments]](https://github.com/LisaAnne/LocalizingMoments).
 - [2017 ICCV] **TALL: Temporal Activity Localization via Language Query**, [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Gao_TALL_Temporal_Activity_ICCV_2017_paper.pdf), [[bibtex]](/Bibtex/TALL%20-%20Temporal%20Activity%20Localization%20via%20Language%20Query.bib), sources: [[jiyanggao/TALL]](https://github.com/jiyanggao/TALL).
 - [2017 ICCV] **TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals**, [[paper]](https://arxiv.org/pdf/1703.06189.pdf), [[supplementary]](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Gao_TURN_TAP_Temporal_ICCV_2017_supplemental.pdf), [[bibtex]](/Bibtex/TURN%20TAP%20-%20Temporal%20Unit%20Regression%20Network%20for%20Temporal%20Action%20Proposals.bib), sources: [[jiyanggao/TURN-TAP]](https://github.com/jiyanggao/TURN-TAP).
@@ -76,5 +94,4 @@
 ## Others
 - [2018 CVPR] **Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments**, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf), [[bibtex]](/Bibtex/Vision-and-Language%20Navigation.bib), sources: [[peteanderson80/Matterport3DSimulator]](https://github.com/peteanderson80/Matterport3DSimulator).
 - [2019 ACL] **Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation**, [[paper]](https://www.aclweb.org/anthology/P19-1655.pdf), [[bibtex]](/Bibtex/Are%20You%20Looking%20Grounding%20to%20Multiple%20Modalities%20in%20Vision-and-Language%20Navigation.bib), [[supplementary]](https://www.aclweb.org/anthology/attachments/P19-1655.Supplementary.pdf).
-- [2019 ACMMM] **A New Benchmark and Approach for Fine-grained Cross-media Retrieval**, [[paper]](https://arxiv.org/pdf/1907.04476.pdf), [[bibtex]](/Bibtex/A%20New%20Benchmark%20and%20Approach%20for%20Fine-grained%20Cross-media%20Retrieval.bib), [[homepage]](http://59.108.48.34/tiki/FGCrossNet/), sources: [[PKU-ICST-MIPL/FGCrossNet_ACMMM2019]](https://github.com/PKU-ICST-MIPL/FGCrossNet_ACMMM2019).
 - [2019 IJCAI] **Adapting BERT for Target-Oriented Multimodal Sentiment Classification**, [[paper]](https://www.ijcai.org/proceedings/2019/0751.pdf), [[bibtex]](/Bibtex/Adapting%20BERT%20for%20Target-Oriented%20Multimodal%20Sentiment%20Classification.bib), sources: [[jefferyYu/TomBERT]](https://github.com/jefferyYu/TomBERT).
