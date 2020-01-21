@@ -13,7 +13,7 @@
 - **CS229: Machine Learning**, _Stanford University_, [[url]](http://cs229.stanford.edu).
 - **Multiple Kernel Learning Algorithms**, [[paper]](http://jmlr.csail.mit.edu/papers/volume12/gonen11a/gonen11a.pdf).
 - **Pattern Recognition and Machine Learning**, [[book]](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf), [[Chinese version book]](https://github.com/wwkenwong/book/blob/master/PRML中文版_模式识别与机器学习.pdf), [[solutions]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf).
-- **Machine Learning: A Probabilistic Perspective**, [[book]](http://liuchengxu.org/books/src/Theory/Machine-Learning-A-Probabilistic-Perspective.pdf).
+- **Machine Learning: A Probabilistic Perspective**, [[book]](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf).
 - **机器学习 (周志华)**, [[Chinese version book]](/Documents/Books/机器学习.pdf).
 - **统计学习方法 (李航)**, [[Chinese version book]](http://ddl.escience.cn/f/Iwn0).
 - **Data Mining: Practical Machine Learning Tools and Techniques**, [[book]](https://www.wi.hs-wismar.de/~cleve/vorl/projects/dm/ss13/HierarClustern/Literatur/WittenFrank-DM-3rd.pdf).
