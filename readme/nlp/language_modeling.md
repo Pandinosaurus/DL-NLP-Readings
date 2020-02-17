@@ -33,6 +33,7 @@
 - [2019 ArXiv] **ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations**, [[paper]](https://arxiv.org/pdf/1909.11942.pdf), [[bibtex]](/Bibtex/ALBERT%20-%20A%20Lite%20BERT%20for%20Self-Supervised%20Learning%20of%20Language%20Representations.bib).
 - [2019 ArXiv] **Emerging Cross-lingual Structure in Pretrained Language Models**, [[paper]](https://arxiv.org/pdf/1911.01464.pdf), [[bibtex]](/Bibtex/Emerging%20Cross-lingual%20Structure%20in%20Pretrained%20Language%20Models.bib).
 - [2019 ArXiv] **NeZha: Neural Contextualized Representation for Chinese Language Understanding**, [[paper]](https://arxiv.org/pdf/1909.00204.pdf), [[bibtex]](/Bibtex/NeZha%20-%20Neural%20Contextualized%20Representation%20for%20Chinese%20Language%20Understanding.bib), sources: [[huawei-noah/Pretrained-Language-Model/NEZHA]](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA).
+- [2020 ICLR] **ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators**, [[paper]](https://openreview.net/pdf?id=r1xMH1BtvB), [[bibtex]](/Bibtex/ELECTRA%20-%20Pre-training%20Text%20Encoders%20as%20Discriminators%20Rather%20Than%20Generators.bib).
 
 ## Language Model Analysis
 - [2019 ArXiv] **How multilingual is Multilingual BERT?**, [[paper]](https://arxiv.org/pdf/1906.01502.pdf), [[bibtex]](/Bibtex/How%20multilingual%20is%20Multilingual%20BERT.bib).
