@@ -6,6 +6,7 @@
 - GitHub Link: [[thunlp/GNNPapers]](https://github.com/thunlp/GNNPapers).
 - GitHub Link: [[DeepGraphLearning/LiteratureDL4Graph]](https://github.com/DeepGraphLearning/LiteratureDL4Graph).
 - GitHub Link: [[rusty1s/pytorch_geometric]](https://github.com/rusty1s/pytorch_geometric).
+- GitHub Link: [[Jiakui/awesome-gcn]](https://github.com/Jiakui/awesome-gcn)
 
 ## Tutorial and Explanation
 - **How to understand Graph Convolutional Networks (GCN)**, [[zhihu blog]](https://www.zhihu.com/question/54504471).
