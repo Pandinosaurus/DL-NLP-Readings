@@ -38,6 +38,7 @@
 - [2018 ACL] **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**, [[paper]](https://arxiv.org/pdf/1711.09645.pdf), [[data]](https://github.com/EdinburghNLP/spot-data).
 - [2018 AAAI] **Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM**, [[paper]](http://sentic.net/sentic-lstm.pdf).
 - [2018 Cognitive Computation] **Sentic LSTM: a Hybrid Network for Targeted Aspect-Based Sentiment Analysis**, [[paper]](https://link.springer.com/article/10.1007/s12559-018-9549-x), sources: [[SenticNet/sentic-lstm]](https://github.com/SenticNet/sentic-lstm).
+- [2018 WWW] **Sentiment Analysis by Capsules**, [[paper]](https://pdfs.semanticscholar.org/e856/f875c7b72534850c2a31329e748bd656f14e.pdf?_ga=2.192355946.1970988380.1587960315-427987589.1587960315), [[bibtex]](/Bibtex/Sentiment%20Analysis%20by%20Capsules.bib).
 - [2019 ACL] **Multi-Source Cross-Lingual Model Transfer: Learning What to Share**, [[paper]](https://www.aclweb.org/anthology/P19-1299), [[bibtex]](/Bibtex/Multi-Source%20Cross-Lingual%20Model%20Transfer%20-%20Learning%20What%20to%20Share.bib), sources: [[microsoft/Multilingual-Model-Transfer]](https://github.com/microsoft/Multilingual-Model-Transfer).
 - [2019 ACL] **Towards Fine-grained Text Sentiment Transfer**, [[paper]](https://www.aclweb.org/anthology/P19-1194.pdf), [[bibtex]](/Bibtex/Towards%20Fine-grained%20Text%20Sentiment%20Transfer.bib), sources: [[luofuli/Fine-grained-Sentiment-Transfer]](https://github.com/luofuli/Fine-grained-Sentiment-Transfer).
 
